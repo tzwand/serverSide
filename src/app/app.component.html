@@ -1,0 +1,67 @@
+<!-- <body>
+<div class="jumbotron" >
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 offset-sm-3">
+                <alert></alert>
+                <router-outlet></router-outlet>
+            </div>
+        </div>
+    </div>
+    </div>
+</body> -->
+<!-- <body style="background-image: url(../assets/pictures/sefer.jpg); background-repeat: no-repeat;
+     background-position: left top;">
+<! <img src="../assets/pictures/sefer.jpg" class="img img-Thumbnail"/> -->
+<!-- <button class="btn btn-success" (click)="login(1)">תורם</button>
+<button class="btn btn-success"(click)="login(0)">להשתתפות במפעל הלימוד  </button>
+<button class="btn btn-success"(click)="guestEnter()">לכניסה ללא הרשמה </button>
+</body> -->
+<div class="rtl">
+<nb-layout >
+
+        <nb-layout-header fixed>
+
+
+
+<!--
+            <nb-tabset fullWidth="true"  (changeTab)="login(1)" >
+                   <nb-tab tabTitle="תורם"  id=0  (click)="login(0)">
+                      לימוד לזכות יקיריך
+                      <script>
+                          sessionStorage.setItem("kind","0");
+                      </script>
+                    </nb-tab>
+
+                    <nb-tab tabTitle="לומד"  id=1>
+
+                        להשתתפות במפעל הלימוד
+                        <script>
+                               sessionStorage.setItem("kind","1");
+                            </script>
+                             </nb-tab>
+
+                   </nb-tabset>
+            -->
+            <button [nbContextMenu]="items" nbContextMenuPlacement="right" class="btn btn-primary">
+                <nb-user name="tzipporah" title="learner" shape="semi-round"></nb-user>
+
+              </button>
+
+        </nb-layout-header>
+<nb-sidebar responsive  >Sidebar Content</nb-sidebar>
+
+        <nb-layout-column layout-content-width=100%>
+                <div ><nb-route-tabset  [tabs]="tabs"></nb-route-tabset></div>
+<router-outlet></router-outlet>
+
+                      <!-- <ng2-smart-table [settings]="settings" [source]="data"></ng2-smart-table> -->
+
+
+        </nb-layout-column>
+        <!-- <nb-layout-column layout-content-width=50%>
+           </nb-layout-column> -->
+      </nb-layout>
+    </div>
+
+<!-- <button class="btn btn-success"(click)="guestEnter()">לכניסה ללא הרשמה </button> -->

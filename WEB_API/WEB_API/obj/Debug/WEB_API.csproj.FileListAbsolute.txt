@@ -1,0 +1,917 @@
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\BLL.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\DTO.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\EntityFramework.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\DAL.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\BLL.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\DTO.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\EntityFramework.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\EntityFramework.SqlServer.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\DAL.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\DAL.dll.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\WEB_API.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\bin\WEB_API.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\WEB_API\WEB_API\obj\Debug\WEB_API.csprojResolveAssemblyReference.cache
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.csprojResolveAssemblyReference.cache
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.pdb
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\BLL.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DAL.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DTO.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\BLL.pdb
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DAL.pdb
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DAL.dll.config
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DTO.pdb
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.xml
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.SqlServer.xml
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.exe
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.rsp
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.exe
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.rsp
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.exe
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.dll.config
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\BLL.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DAL.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DTO.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\BLL.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DAL.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DAL.dll.config
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\DTO.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.xml
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.SqlServer.xml
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.xml
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.csprojResolveAssemblyReference.cache
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+\\Comp-h-19\ddd\בתיה וציפורה\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\WEB_API.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\BLL.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\DAL.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\DTO.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\BLL.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\DAL.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\DAL.dll.config
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\DTO.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.xml
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\EntityFramework.SqlServer.xml
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.csprojResolveAssemblyReference.cache
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_NEW\WEB_API\WEB_API\bin\Microsoft.QualityTools.Testing.Fakes.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\WEB_API.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\WEB_API.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Microsoft.QualityTools.Testing.Fakes.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\BLL.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\BLL.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DTO.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DTO.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DAL.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DAL.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DAL.dll.config
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\EntityFramework.dll
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csc.exe
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csc.rsp
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csi.exe
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\csi.rsp
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\vbc.exe
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\WEB_API.dll.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\WEB_API.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\WEB_API.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\BLL.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DAL.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DTO.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\EntityFramework.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Microsoft.QualityTools.Testing.Fakes.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Web.Http.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\BLL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DAL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DAL.dll.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\DTO.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Web.Http.xml
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\obj\Debug\WEB_API.csprojResolveAssemblyReference.cache
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\צפורה ובתיה -ה תמוז\WEB_API\WEB_API\obj\Debug\WEB_API.csprojResolveAssemblyReference.cache
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\WEB_API.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\WEB_API.pdb
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\BLL.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\DAL.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\DTO.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\EntityFramework.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\BLL.pdb
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\DAL.pdb
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\DAL.dll.config
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\DTO.pdb
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.csprojAssemblyReference.cache
+D:\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+D:\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+D:\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csc.exe
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csc.rsp
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csi.exe
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\csi.rsp
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\vbc.exe
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\WEB_API.dll.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\WEB_API.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\WEB_API.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\BLL.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\DAL.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\DTO.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\EntityFramework.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Web.Http.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\BLL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\DAL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\DAL.dll.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\DTO.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Web.Http.xml
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\WEB_API\WEB_API\bin\BLL.dll.config
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\csc.exe
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\csc.rsp
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\csi.exe
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\csi.rsp
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\vbc.exe
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\WEB_API.dll.config
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\WEB_API.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\WEB_API.pdb
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\BLL.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\DAL.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\DTO.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\EntityFramework.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\System.Web.Http.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\BLL.pdb
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\BLL.dll.config
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\DAL.pdb
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\DAL.dll.config
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\DTO.pdb
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\System.Web.Http.xml
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\obj\Debug\WEB_API.csprojAssemblyReference.cache
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+C:\Users\בתיה\Documents\project\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\WEB_API.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\WEB_API.pdb
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\BLL.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DAL.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DTO.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\EntityFramework.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Microsoft.QualityTools.Testing.Fakes.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\BLL.pdb
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\BLL.dll.config
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DAL.pdb
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DAL.dll.config
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DTO.pdb
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.csprojAssemblyReference.cache
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csc.exe
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csc.rsp
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csi.exe
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\csi.rsp
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\vbc.exe
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\WEB_API.dll.config
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\WEB_API.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\WEB_API.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\BLL.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DAL.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DTO.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\EntityFramework.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Microsoft.QualityTools.Testing.Fakes.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Web.Http.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\BLL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\BLL.dll.config
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DAL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DAL.dll.config
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\DTO.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Web.Http.xml
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CoreCompileInputs.cache
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\WEB_API\WEB_API\obj\Debug\WEB_API.csprojAssemblyReference.cache
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\obj\Debug\WEB_API.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\csc.exe
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\csc.exe.config
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\csc.rsp
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\csi.exe
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\csi.exe.config
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\csi.rsp
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Console.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\vbc.exe
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\vbc.rsp
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\WEB_API.dll.config
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\WEB_API.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\WEB_API.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\BLL.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\DAL.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\DTO.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\EntityFramework.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\EntityFramework.SqlServer.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\System.Web.Http.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\BLL.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\BLL.dll.config
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\DAL.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\DAL.dll.config
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\DTO.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\System.Web.Http.xml
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\ExcelDataReader.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\ExcelDataReader.DataSet.dll
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\ExcelDataReader.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\ExcelDataReader.xml
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\ExcelDataReader.DataSet.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\bin\ExcelDataReader.DataSet.xml
+C:\Users\tzipp\BTProject\cheshvanProject\WEB_API\WEB_API\obj\Debug\WEB_API.csprojAssemblyReference.cache

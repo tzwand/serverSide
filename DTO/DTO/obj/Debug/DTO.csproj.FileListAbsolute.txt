@@ -1,0 +1,130 @@
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\DTO.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\DTO.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\DAL.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\EntityFramework.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\DAL.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\DAL.dll.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\EntityFramework.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\obj\Debug\DTO.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\obj\Debug\DTO.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\DTO.dll
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\DTO.pdb
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\DAL.dll
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\EntityFramework.dll
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\DAL.pdb
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\DAL.dll.config
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\EntityFramework.xml
+D:\בתיה וציפורה\DTO\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\בתיה וציפורה\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\בתיה וציפורה\DTO\DTO\obj\Debug\DTO.dll
+D:\בתיה וציפורה\DTO\DTO\obj\Debug\DTO.pdb
+D:\בתיה וציפורה\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\DTO.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\DTO.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\DAL.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\EntityFramework.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\DAL.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\DAL.dll.config
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\EntityFramework.xml
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\bin\Debug\EntityFramework.SqlServer.xml
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\obj\Debug\DTO.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DTO\DTO\obj\Debug\DTO.pdb
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DTO.dll
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DTO.pdb
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DAL.dll
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\EntityFramework.dll
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DAL.pdb
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DAL.dll.config
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\obj\Debug\DTO.dll
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\obj\Debug\DTO.pdb
+D:\צפורה ובתיה -ה תמוז\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DTO.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DTO.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DAL.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\EntityFramework.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DAL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\bin\Debug\DAL.dll.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\obj\Debug\DTO.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\obj\Debug\DTO.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\project\Batya & Tzipora\DTO\DTO\bin\Debug\DTO.dll
+D:\project\Batya & Tzipora\DTO\DTO\bin\Debug\DTO.pdb
+D:\project\Batya & Tzipora\DTO\DTO\bin\Debug\DAL.dll
+D:\project\Batya & Tzipora\DTO\DTO\bin\Debug\EntityFramework.dll
+D:\project\Batya & Tzipora\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\Batya & Tzipora\DTO\DTO\bin\Debug\DAL.pdb
+D:\project\Batya & Tzipora\DTO\DTO\bin\Debug\DAL.dll.config
+D:\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.dll
+D:\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\bin\Debug\DTO.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\bin\Debug\DTO.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\bin\Debug\DAL.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\bin\Debug\EntityFramework.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\bin\Debug\DAL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\bin\Debug\DAL.dll.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DTO\DTO\obj\Debug\DTO.pdb
+C:\Users\בתיה\Documents\project\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\בתיה\Documents\project\DTO\DTO\obj\Debug\DTO.dll
+C:\Users\בתיה\Documents\project\DTO\DTO\obj\Debug\DTO.pdb
+C:\Users\בתיה\Documents\project\DTO\DTO\bin\Debug\DTO.dll
+C:\Users\בתיה\Documents\project\DTO\DTO\bin\Debug\DTO.pdb
+C:\Users\בתיה\Documents\project\DTO\DTO\bin\Debug\DAL.dll
+C:\Users\בתיה\Documents\project\DTO\DTO\bin\Debug\EntityFramework.dll
+C:\Users\בתיה\Documents\project\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בתיה\Documents\project\DTO\DTO\bin\Debug\DAL.pdb
+C:\Users\בתיה\Documents\project\DTO\DTO\bin\Debug\DAL.dll.config
+C:\Users\בתיה\Documents\project\DTO\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DTO.dll
+D:\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DTO.pdb
+D:\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DAL.dll
+D:\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\EntityFramework.dll
+D:\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DAL.pdb
+D:\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DAL.dll.config
+D:\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.dll
+D:\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DTO.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DTO.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DAL.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\EntityFramework.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DAL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\bin\Debug\DAL.dll.config
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\DTO\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\bin\Debug\DTO.dll
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\bin\Debug\DTO.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\bin\Debug\DAL.dll
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\bin\Debug\EntityFramework.dll
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\bin\Debug\DAL.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\bin\Debug\DAL.dll.config
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\obj\Debug\DTO.dll
+C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\obj\Debug\DTO.pdb

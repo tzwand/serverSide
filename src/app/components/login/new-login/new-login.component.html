@@ -1,0 +1,48 @@
+<div class="rtl">
+  <h2>כניסה</h2>
+  <div class="container">
+    <form class="form" #formNewperson="ngForm" (ngSubmit)="saveForm()">
+
+    <div class="form-group"  >
+        <label for="personEmail">מייל</label>
+      <input nbInput  class="ltr" type="text" name="email" [(ngModel)]="newperson.email" class="form-control" placeholder="מייל" #personEmail="ngModel" required email  [ngClass]="{ 'is-invalid': personEmail.invalid && (personEmail.dirty || personEmail.touched) }">
+      <div class="alert-danger" *ngIf="personEmail.invalid && (personEmail.dirty || personEmail.touched)" >
+          <div class="alert-danger" *ngIf="personEmail.errors.required">חובה להכניס כתובת מייל</div>
+          <div class="alert-danger" *ngIf="personEmail.errors.email">כתובת מייל חייבת להיות תקנית</div>
+    </div>
+  </div>
+
+
+    <div class="form-group" >
+        <label for="personPassword">סיסמא</label>
+      <input type="password" name="password" [(ngModel)]="newperson.password" class="form-control"  placeholder="סיסמא" #personPassword="ngModel" required minlength="6" [ngClass]="{ 'is-invalid': personPassword.invalid && (personPassword.dirty || personPassword.touched) }" >
+      <div *ngIf="personPassword.invalid && (personPassword.dirty ||personPassword.touched)">
+      <div class="alert-danger" *ngIf="personPassword.errors.required">חובה להכניס סיסמא</div>
+      <!-- <div class="alert-danger"*ngIf="personPassword.errors.pattern">הסיסמא חייבת להכיל אותיות ומספרים </div> -->
+      <div class="alert-danger" *ngIf="personPassword.errors.minlength">הסיסמא חייבת להכיל לפחות ששה תוים</div>
+    </div>
+    </div>
+   <div class="ltr">
+    <button nbButton type="submit" class="btn btn-success" [disabled]="!formNewperson.form.valid" >שלח</button>
+    <img *ngIf="loading" src="data:image/gif;base64,R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAADMwi63P4wyklrE2MIOggZnAdOmGYJRbExwroUmcG2LmDEwnHQLVsYOd2mBzkYDAdKa+dIAAAh+QQJCgAAACwAAAAAEAAQAAADNAi63P5OjCEgG4QMu7DmikRxQlFUYDEZIGBMRVsaqHwctXXf7WEYB4Ag1xjihkMZsiUkKhIAIfkECQoAAAAsAAAAABAAEAAAAzYIujIjK8pByJDMlFYvBoVjHA70GU7xSUJhmKtwHPAKzLO9HMaoKwJZ7Rf8AYPDDzKpZBqfvwQAIfkECQoAAAAsAAAAABAAEAAAAzMIumIlK8oyhpHsnFZfhYumCYUhDAQxRIdhHBGqRoKw0R8DYlJd8z0fMDgsGo/IpHI5TAAAIfkECQoAAAAsAAAAABAAEAAAAzIIunInK0rnZBTwGPNMgQwmdsNgXGJUlIWEuR5oWUIpz8pAEAMe6TwfwyYsGo/IpFKSAAAh+QQJCgAAACwAAAAAEAAQAAADMwi6IMKQORfjdOe82p4wGccc4CEuQradylesojEMBgsUc2G7sDX3lQGBMLAJibufbSlKAAAh+QQJCgAAACwAAAAAEAAQAAADMgi63P7wCRHZnFVdmgHu2nFwlWCI3WGc3TSWhUFGxTAUkGCbtgENBMJAEJsxgMLWzpEAACH5BAkKAAAALAAAAAAQABAAAAMyCLrc/jDKSatlQtScKdceCAjDII7HcQ4EMTCpyrCuUBjCYRgHVtqlAiB1YhiCnlsRkAAAOwAAAAAAAAAAAA==" />
+          <a [routerLink]="['/']" class="btn btn-link">ביטול</a>
+
+        </div>
+<div *ngIf="goRegister">
+  <h5>אינך רשום במערכת. יתכן שהכנסת פרט שגוי.</h5>
+  <h6>אם ברצונך להרשם כעת הקש על "הרשמה "</h6>
+  <button nbButton type="button" class="btn btn-success" (click)="register()" >הרשמה</button>
+</div>
+<div >
+
+
+  <button nbButton type="button" class="btn btn-success" (click)="resetPassword()" >שכחתי סיסמא</button>
+</div>
+    </form>
+  </div>
+
+
+
+
+
+

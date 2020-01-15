@@ -1,0 +1,23 @@
+
+<!-- <br> -->
+<h4>הגדר סוג טווח זמן</h4>
+<br>
+<nb-select multiple status="primary" placeholder="בחר..." filled="false" [(ngModel)]="chosenTime" >
+  <nb-option *ngFor="let t of times" value="{{t.timeDesc}}">{{t.timeDesc}}</nb-option>
+</nb-select>
+<br>
+<select id="time"><br>
+  <option *ngFor="let t of times">{{t.timeDesc}}</option>
+</select>
+<h4>הגדר טווח זמן: </h4>
+<br>
+<input [nbDatepicker]="rangepicker">
+<nb-rangepicker #rangepicker></nb-rangepicker>
+<br>
+<!-- <label>החל מ:</label> -->
+<!-- <input type="date" [(ngModel)]="from"/>
+<label>עד:</label>
+<input type="date"  [(ngModel)]="until"/> -->
+<br>
+<br>
+<!-- <button (click)="next()">הבא</button> -->

@@ -1,0 +1,85 @@
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\bin\Debug\DAL.dll.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\bin\Debug\DAL.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\bin\Debug\DAL.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\bin\Debug\EntityFramework.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\bin\Debug\EntityFramework.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\obj\Debug\DAL.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\DAL\DAL\obj\Debug\DAL.pdb
+D:\בתיה וציפורה\DAL\DAL\bin\Debug\DAL.dll.config
+D:\בתיה וציפורה\DAL\DAL\bin\Debug\DAL.dll
+D:\בתיה וציפורה\DAL\DAL\bin\Debug\DAL.pdb
+D:\בתיה וציפורה\DAL\DAL\bin\Debug\EntityFramework.dll
+D:\בתיה וציפורה\DAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\בתיה וציפורה\DAL\DAL\bin\Debug\EntityFramework.xml
+D:\בתיה וציפורה\DAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\בתיה וציפורה\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\בתיה וציפורה\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\בתיה וציפורה\DAL\DAL\obj\Debug\DAL.dll
+D:\בתיה וציפורה\DAL\DAL\obj\Debug\DAL.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\bin\Debug\DAL.dll.config
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\bin\Debug\DAL.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\bin\Debug\DAL.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\bin\Debug\EntityFramework.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\bin\Debug\EntityFramework.xml
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\obj\Debug\DAL.dll
+\\Comp-h-19\ddd\בתיה וציפורה\DAL\DAL\obj\Debug\DAL.pdb
+D:\צפורה ובתיה -ה תמוז\DAL\DAL\bin\Debug\DAL.dll.config
+D:\צפורה ובתיה -ה תמוז\DAL\DAL\bin\Debug\DAL.dll
+D:\צפורה ובתיה -ה תמוז\DAL\DAL\bin\Debug\DAL.pdb
+D:\צפורה ובתיה -ה תמוז\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\צפורה ובתיה -ה תמוז\DAL\DAL\obj\Debug\DAL.dll
+D:\צפורה ובתיה -ה תמוז\DAL\DAL\obj\Debug\DAL.pdb
+D:\צפורה ובתיה -ה תמוז\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DAL\DAL\bin\Debug\DAL.dll.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DAL\DAL\bin\Debug\DAL.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DAL\DAL\bin\Debug\DAL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DAL\DAL\obj\Debug\DAL.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DAL\DAL\obj\Debug\DAL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\project\Batya & Tzipora\DAL\DAL\bin\Debug\DAL.dll.config
+D:\project\Batya & Tzipora\DAL\DAL\bin\Debug\DAL.dll
+D:\project\Batya & Tzipora\DAL\DAL\bin\Debug\DAL.pdb
+D:\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.dll
+D:\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DAL\DAL\bin\Debug\DAL.dll.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\DAL\DAL\obj\Debug\DAL.pdb
+D:\כל השכבות מבתיה בד אב\DAL\DAL\bin\Debug\DAL.dll.config
+D:\כל השכבות מבתיה בד אב\DAL\DAL\bin\Debug\DAL.dll
+D:\כל השכבות מבתיה בד אב\DAL\DAL\bin\Debug\DAL.pdb
+D:\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.dll
+D:\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\DAL\DAL\bin\Debug\DAL.dll.config
+E:\tzippporah\כל השכבות מבתיה בד אב\DAL\DAL\bin\Debug\DAL.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\DAL\DAL\bin\Debug\DAL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\tzippporah\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\tzippporah\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\bin\Debug\DAL.dll.config
+C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\obj\Debug\DAL.pdb

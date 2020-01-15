@@ -1,0 +1,920 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DTO.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:DTO.Fakes.ShimBook">
+            <summary>Shim type of DTO.Book</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimBook.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimBook.#ctor(DTO.Book)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimBook.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.AllInstances.BookIdGet">
+            <summary>Sets the shim of Book.get_BookId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.AllInstances.BookIdSetInt32">
+            <summary>Sets the shim of Book.set_BookId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.AllInstances.BookNameGet">
+            <summary>Sets the shim of Book.get_BookName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.AllInstances.BookNameSetString">
+            <summary>Sets the shim of Book.set_BookName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.AllInstances.BookinfoGet">
+            <summary>Sets the shim of Book.get_Bookinfo()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.AllInstances.BookinfoSetString">
+            <summary>Sets the shim of Book.set_Bookinfo(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.AllInstances.BookpaymentGet">
+            <summary>Sets the shim of Book.get_Bookpayment()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.AllInstances.BookpaymentSetNullableOfDouble">
+            <summary>Sets the shim of Book.set_Bookpayment(Nullable`1&lt;Double&gt; value)</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimBook.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimBook.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.BookIdGet">
+            <summary>Sets the shim of Book.get_BookId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.BookIdSetInt32">
+            <summary>Sets the shim of Book.set_BookId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.BookNameGet">
+            <summary>Sets the shim of Book.get_BookName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.BookNameSetString">
+            <summary>Sets the shim of Book.set_BookName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.BookinfoGet">
+            <summary>Sets the shim of Book.get_Bookinfo()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.BookinfoSetString">
+            <summary>Sets the shim of Book.set_Bookinfo(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.BookpaymentGet">
+            <summary>Sets the shim of Book.get_Bookpayment()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.BookpaymentSetNullableOfDouble">
+            <summary>Sets the shim of Book.set_Bookpayment(Nullable`1&lt;Double&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.Constructor">
+            <summary>Sets the shim of Book.Book()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.DTOTocListOfBook">
+            <summary>Sets the shim of Book.DTOToc(List`1&lt;Book&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimBook.cToDTOListOfBook_tbl">
+            <summary>Sets the shim of Book.cToDTO(List`1&lt;Book_tbl&gt; data)</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimClosedGroup">
+            <summary>Shim type of DTO.ClosedGroup</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimClosedGroup.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimClosedGroup.#ctor(DTO.ClosedGroup)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimClosedGroup.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.AllInstances.GroupIdGet">
+            <summary>Sets the shim of ClosedGroup.get_GroupId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.AllInstances.GroupIdSetInt32">
+            <summary>Sets the shim of ClosedGroup.set_GroupId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.AllInstances.groupNameGet">
+            <summary>Sets the shim of ClosedGroup.get_groupName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.AllInstances.groupNameSetString">
+            <summary>Sets the shim of ClosedGroup.set_groupName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.AllInstances.reqIdGet">
+            <summary>Sets the shim of ClosedGroup.get_reqId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.AllInstances.reqIdSetNullableOfInt32">
+            <summary>Sets the shim of ClosedGroup.set_reqId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimClosedGroup.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimClosedGroup.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.Constructor">
+            <summary>Sets the shim of ClosedGroup.ClosedGroup()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.DTOTocListOfClosedGroup">
+            <summary>Sets the shim of ClosedGroup.DTOToc(List`1&lt;ClosedGroup&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.GroupIdGet">
+            <summary>Sets the shim of ClosedGroup.get_GroupId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.GroupIdSetInt32">
+            <summary>Sets the shim of ClosedGroup.set_GroupId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.cToDTOListOfclosedGroup_tbl">
+            <summary>Sets the shim of ClosedGroup.cToDTO(List`1&lt;closedGroup_tbl&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.groupNameGet">
+            <summary>Sets the shim of ClosedGroup.get_groupName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.groupNameSetString">
+            <summary>Sets the shim of ClosedGroup.set_groupName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.reqIdGet">
+            <summary>Sets the shim of ClosedGroup.get_reqId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimClosedGroup.reqIdSetNullableOfInt32">
+            <summary>Sets the shim of ClosedGroup.set_reqId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimLearner">
+            <summary>Shim type of DTO.Learner</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimLearner.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimLearner.#ctor(DTO.Learner)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimLearner.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.endDateGet">
+            <summary>Sets the shim of Learner.get_endDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.endDateSetString">
+            <summary>Sets the shim of Learner.set_endDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.genderGet">
+            <summary>Sets the shim of Learner.get_gender()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.genderSetString">
+            <summary>Sets the shim of Learner.set_gender(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.groupIdGet">
+            <summary>Sets the shim of Learner.get_groupId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.groupIdSetNullableOfInt32">
+            <summary>Sets the shim of Learner.set_groupId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.learnerEmailGet">
+            <summary>Sets the shim of Learner.get_learnerEmail()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.learnerEmailSetString">
+            <summary>Sets the shim of Learner.set_learnerEmail(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.learnerIdGet">
+            <summary>Sets the shim of Learner.get_learnerId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.learnerIdSetInt32">
+            <summary>Sets the shim of Learner.set_learnerId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.learnerNameGet">
+            <summary>Sets the shim of Learner.get_learnerName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.learnerNameSetString">
+            <summary>Sets the shim of Learner.set_learnerName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.occuptionIdGet">
+            <summary>Sets the shim of Learner.get_occuptionId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.occuptionIdSetNullableOfInt32">
+            <summary>Sets the shim of Learner.set_occuptionId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.passwordGet">
+            <summary>Sets the shim of Learner.get_password()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.passwordSetString">
+            <summary>Sets the shim of Learner.set_password(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.sosRequestsGet">
+            <summary>Sets the shim of Learner.get_sosRequests()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.sosRequestsSetNullableOfBoolean">
+            <summary>Sets the shim of Learner.set_sosRequests(Nullable`1&lt;Boolean&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.startDateGet">
+            <summary>Sets the shim of Learner.get_startDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.startDateSetString">
+            <summary>Sets the shim of Learner.set_startDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.wantsToJoinGet">
+            <summary>Sets the shim of Learner.get_wantsToJoin()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.AllInstances.wantsToJoinSetNullableOfBoolean">
+            <summary>Sets the shim of Learner.set_wantsToJoin(Nullable`1&lt;Boolean&gt; value)</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimLearner.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimLearner.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.Constructor">
+            <summary>Sets the shim of Learner.Learner()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.DTOTocListOfLearner">
+            <summary>Sets the shim of Learner.DTOToc(List`1&lt;Learner&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.cToDTOListOflearners_tbl">
+            <summary>Sets the shim of Learner.cToDTO(List`1&lt;learners_tbl&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.endDateGet">
+            <summary>Sets the shim of Learner.get_endDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.endDateSetString">
+            <summary>Sets the shim of Learner.set_endDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.genderGet">
+            <summary>Sets the shim of Learner.get_gender()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.genderSetString">
+            <summary>Sets the shim of Learner.set_gender(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.groupIdGet">
+            <summary>Sets the shim of Learner.get_groupId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.groupIdSetNullableOfInt32">
+            <summary>Sets the shim of Learner.set_groupId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.learnerEmailGet">
+            <summary>Sets the shim of Learner.get_learnerEmail()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.learnerEmailSetString">
+            <summary>Sets the shim of Learner.set_learnerEmail(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.learnerIdGet">
+            <summary>Sets the shim of Learner.get_learnerId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.learnerIdSetInt32">
+            <summary>Sets the shim of Learner.set_learnerId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.learnerNameGet">
+            <summary>Sets the shim of Learner.get_learnerName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.learnerNameSetString">
+            <summary>Sets the shim of Learner.set_learnerName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.occuptionIdGet">
+            <summary>Sets the shim of Learner.get_occuptionId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.occuptionIdSetNullableOfInt32">
+            <summary>Sets the shim of Learner.set_occuptionId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.passwordGet">
+            <summary>Sets the shim of Learner.get_password()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.passwordSetString">
+            <summary>Sets the shim of Learner.set_password(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.sosRequestsGet">
+            <summary>Sets the shim of Learner.get_sosRequests()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.sosRequestsSetNullableOfBoolean">
+            <summary>Sets the shim of Learner.set_sosRequests(Nullable`1&lt;Boolean&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.startDateGet">
+            <summary>Sets the shim of Learner.get_startDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.startDateSetString">
+            <summary>Sets the shim of Learner.set_startDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.wantsToJoinGet">
+            <summary>Sets the shim of Learner.get_wantsToJoin()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearner.wantsToJoinSetNullableOfBoolean">
+            <summary>Sets the shim of Learner.set_wantsToJoin(Nullable`1&lt;Boolean&gt; value)</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimLearningMaterial">
+            <summary>Shim type of DTO.LearningMaterial</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimLearningMaterial.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimLearningMaterial.#ctor(DTO.LearningMaterial)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimLearningMaterial.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.AllInstances.amountGet">
+            <summary>Sets the shim of LearningMaterial.get_amount()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.AllInstances.amountSetNullableOfInt32">
+            <summary>Sets the shim of LearningMaterial.set_amount(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.AllInstances.bookIdGet">
+            <summary>Sets the shim of LearningMaterial.get_bookId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.AllInstances.bookIdSetInt32">
+            <summary>Sets the shim of LearningMaterial.set_bookId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.AllInstances.learnerIdGet">
+            <summary>Sets the shim of LearningMaterial.get_learnerId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.AllInstances.learnerIdSetInt32">
+            <summary>Sets the shim of LearningMaterial.set_learnerId(Int32 value)</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimLearningMaterial.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimLearningMaterial.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.Constructor">
+            <summary>Sets the shim of LearningMaterial.LearningMaterial()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.DTOTocListOfLearningMaterial">
+            <summary>Sets the shim of LearningMaterial.DTOToc(List`1&lt;LearningMaterial&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.amountGet">
+            <summary>Sets the shim of LearningMaterial.get_amount()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.amountSetNullableOfInt32">
+            <summary>Sets the shim of LearningMaterial.set_amount(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.bookIdGet">
+            <summary>Sets the shim of LearningMaterial.get_bookId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.bookIdSetInt32">
+            <summary>Sets the shim of LearningMaterial.set_bookId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.cToDTOListOflearningMaterial_tbl">
+            <summary>Sets the shim of LearningMaterial.cToDTO(List`1&lt;learningMaterial_tbl&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.learnerIdGet">
+            <summary>Sets the shim of LearningMaterial.get_learnerId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimLearningMaterial.learnerIdSetInt32">
+            <summary>Sets the shim of LearningMaterial.set_learnerId(Int32 value)</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimMatching">
+            <summary>Shim type of DTO.Matching</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimMatching.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimMatching.#ctor(DTO.Matching)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimMatching.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.AllInstances.amountGet">
+            <summary>Sets the shim of Matching.get_amount()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.AllInstances.amountSetNullableOfInt32">
+            <summary>Sets the shim of Matching.set_amount(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.AllInstances.bookIdGet">
+            <summary>Sets the shim of Matching.get_bookId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.AllInstances.bookIdSetInt32">
+            <summary>Sets the shim of Matching.set_bookId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.AllInstances.learnerIdGet">
+            <summary>Sets the shim of Matching.get_learnerId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.AllInstances.learnerIdSetInt32">
+            <summary>Sets the shim of Matching.set_learnerId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.AllInstances.reqIdGet">
+            <summary>Sets the shim of Matching.get_reqId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.AllInstances.reqIdSetInt32">
+            <summary>Sets the shim of Matching.set_reqId(Int32 value)</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimMatching.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimMatching.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.Constructor">
+            <summary>Sets the shim of Matching.Matching()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.DTOTocListOfMatching">
+            <summary>Sets the shim of Matching.DTOToc(List`1&lt;Matching&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.amountGet">
+            <summary>Sets the shim of Matching.get_amount()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.amountSetNullableOfInt32">
+            <summary>Sets the shim of Matching.set_amount(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.bookIdGet">
+            <summary>Sets the shim of Matching.get_bookId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.bookIdSetInt32">
+            <summary>Sets the shim of Matching.set_bookId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.cToDTOListOfMatching_tbl">
+            <summary>Sets the shim of Matching.cToDTO(List`1&lt;Matching_tbl&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.learnerIdGet">
+            <summary>Sets the shim of Matching.get_learnerId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.learnerIdSetInt32">
+            <summary>Sets the shim of Matching.set_learnerId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.reqIdGet">
+            <summary>Sets the shim of Matching.get_reqId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimMatching.reqIdSetInt32">
+            <summary>Sets the shim of Matching.set_reqId(Int32 value)</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimOccupation">
+            <summary>Shim type of DTO.Occupation</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimOccupation.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimOccupation.#ctor(DTO.Occupation)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimOccupation.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.AllInstances.occupationNameGet">
+            <summary>Sets the shim of Occupation.get_occupationName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.AllInstances.occupationNameSetString">
+            <summary>Sets the shim of Occupation.set_occupationName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.AllInstances.occuptionIdGet">
+            <summary>Sets the shim of Occupation.get_occuptionId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.AllInstances.occuptionIdSetInt32">
+            <summary>Sets the shim of Occupation.set_occuptionId(Int32 value)</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimOccupation.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimOccupation.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.Constructor">
+            <summary>Sets the shim of Occupation.Occupation()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.DTOToCListOfOccupation">
+            <summary>Sets the shim of Occupation.DTOToC(List`1&lt;Occupation&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.cToDTOListOfoccuption_tbl">
+            <summary>Sets the shim of Occupation.cToDTO(List`1&lt;occuption_tbl&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.occupationNameGet">
+            <summary>Sets the shim of Occupation.get_occupationName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.occupationNameSetString">
+            <summary>Sets the shim of Occupation.set_occupationName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.occuptionIdGet">
+            <summary>Sets the shim of Occupation.get_occuptionId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimOccupation.occuptionIdSetInt32">
+            <summary>Sets the shim of Occupation.set_occuptionId(Int32 value)</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimRequest">
+            <summary>Shim type of DTO.Request</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimRequest.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimRequest.#ctor(DTO.Request)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimRequest.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.BookIdGet">
+            <summary>Sets the shim of Request.get_BookId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.BookIdSetInt32">
+            <summary>Sets the shim of Request.set_BookId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.donorEmailGet">
+            <summary>Sets the shim of Request.get_donorEmail()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.donorEmailSetString">
+            <summary>Sets the shim of Request.set_donorEmail(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.donorNameGet">
+            <summary>Sets the shim of Request.get_donorName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.donorNameSetString">
+            <summary>Sets the shim of Request.set_donorName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.extraInfoGet">
+            <summary>Sets the shim of Request.get_extraInfo()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.extraInfoSetString">
+            <summary>Sets the shim of Request.set_extraInfo(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.genderidGet">
+            <summary>Sets the shim of Request.get_genderid()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.genderidSetString">
+            <summary>Sets the shim of Request.set_genderid(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.occuptionIdGet">
+            <summary>Sets the shim of Request.get_occuptionId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.occuptionIdSetNullableOfInt32">
+            <summary>Sets the shim of Request.set_occuptionId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.passwordGet">
+            <summary>Sets the shim of Request.get_password()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.passwordSetString">
+            <summary>Sets the shim of Request.set_password(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.paymentGet">
+            <summary>Sets the shim of Request.get_payment()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.paymentSetNullableOfDouble">
+            <summary>Sets the shim of Request.set_payment(Nullable`1&lt;Double&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.reqEndDateGet">
+            <summary>Sets the shim of Request.get_reqEndDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.reqEndDateSetString">
+            <summary>Sets the shim of Request.set_reqEndDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.reqIdGet">
+            <summary>Sets the shim of Request.get_reqId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.reqIdSetInt32">
+            <summary>Sets the shim of Request.set_reqId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.reqPurposeGet">
+            <summary>Sets the shim of Request.get_reqPurpose()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.reqPurposeSetString">
+            <summary>Sets the shim of Request.set_reqPurpose(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.reqStartDateGet">
+            <summary>Sets the shim of Request.get_reqStartDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.reqStartDateSetString">
+            <summary>Sets the shim of Request.set_reqStartDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.sosDateGet">
+            <summary>Sets the shim of Request.get_sosDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.sosDateSetString">
+            <summary>Sets the shim of Request.set_sosDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.sosPaymentGet">
+            <summary>Sets the shim of Request.get_sosPayment()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.sosPaymentSetNullableOfDouble">
+            <summary>Sets the shim of Request.set_sosPayment(Nullable`1&lt;Double&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.timeIdGet">
+            <summary>Sets the shim of Request.get_timeId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.AllInstances.timeIdSetNullableOfInt32">
+            <summary>Sets the shim of Request.set_timeId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimRequest.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimRequest.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.BookIdGet">
+            <summary>Sets the shim of Request.get_BookId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.BookIdSetInt32">
+            <summary>Sets the shim of Request.set_BookId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.Constructor">
+            <summary>Sets the shim of Request.Request()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.DTOTocListOfRequest">
+            <summary>Sets the shim of Request.DTOToc(List`1&lt;Request&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.cToDTOListOfrequest_tbl">
+            <summary>Sets the shim of Request.cToDTO(List`1&lt;request_tbl&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.donorEmailGet">
+            <summary>Sets the shim of Request.get_donorEmail()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.donorEmailSetString">
+            <summary>Sets the shim of Request.set_donorEmail(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.donorNameGet">
+            <summary>Sets the shim of Request.get_donorName()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.donorNameSetString">
+            <summary>Sets the shim of Request.set_donorName(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.extraInfoGet">
+            <summary>Sets the shim of Request.get_extraInfo()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.extraInfoSetString">
+            <summary>Sets the shim of Request.set_extraInfo(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.genderidGet">
+            <summary>Sets the shim of Request.get_genderid()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.genderidSetString">
+            <summary>Sets the shim of Request.set_genderid(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.occuptionIdGet">
+            <summary>Sets the shim of Request.get_occuptionId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.occuptionIdSetNullableOfInt32">
+            <summary>Sets the shim of Request.set_occuptionId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.passwordGet">
+            <summary>Sets the shim of Request.get_password()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.passwordSetString">
+            <summary>Sets the shim of Request.set_password(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.paymentGet">
+            <summary>Sets the shim of Request.get_payment()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.paymentSetNullableOfDouble">
+            <summary>Sets the shim of Request.set_payment(Nullable`1&lt;Double&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.reqEndDateGet">
+            <summary>Sets the shim of Request.get_reqEndDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.reqEndDateSetString">
+            <summary>Sets the shim of Request.set_reqEndDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.reqIdGet">
+            <summary>Sets the shim of Request.get_reqId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.reqIdSetInt32">
+            <summary>Sets the shim of Request.set_reqId(Int32 value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.reqPurposeGet">
+            <summary>Sets the shim of Request.get_reqPurpose()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.reqPurposeSetString">
+            <summary>Sets the shim of Request.set_reqPurpose(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.reqStartDateGet">
+            <summary>Sets the shim of Request.get_reqStartDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.reqStartDateSetString">
+            <summary>Sets the shim of Request.set_reqStartDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.sosDateGet">
+            <summary>Sets the shim of Request.get_sosDate()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.sosDateSetString">
+            <summary>Sets the shim of Request.set_sosDate(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.sosPaymentGet">
+            <summary>Sets the shim of Request.get_sosPayment()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.sosPaymentSetNullableOfDouble">
+            <summary>Sets the shim of Request.set_sosPayment(Nullable`1&lt;Double&gt; value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.timeIdGet">
+            <summary>Sets the shim of Request.get_timeId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimRequest.timeIdSetNullableOfInt32">
+            <summary>Sets the shim of Request.set_timeId(Nullable`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimTime">
+            <summary>Shim type of DTO.Time</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimTime.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimTime.#ctor(DTO.Time)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:DTO.Fakes.ShimTime.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.AllInstances.timeDescGet">
+            <summary>Sets the shim of Time.get_timeDesc()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.AllInstances.timeDescSetString">
+            <summary>Sets the shim of Time.set_timeDesc(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.AllInstances.timeIdGet">
+            <summary>Sets the shim of Time.get_timeId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.AllInstances.timeIdSetInt32">
+            <summary>Sets the shim of Time.set_timeId(Int32 value)</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimTime.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DTO.Fakes.ShimTime.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.Constructor">
+            <summary>Sets the shim of Time.Time()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.DTOToCListOfTime">
+            <summary>Sets the shim of Time.DTOToC(List`1&lt;Time&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.cToDTOListOftime_tbl">
+            <summary>Sets the shim of Time.cToDTO(List`1&lt;time_tbl&gt; data)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.timeDescGet">
+            <summary>Sets the shim of Time.get_timeDesc()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.timeDescSetString">
+            <summary>Sets the shim of Time.set_timeDesc(String value)</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.timeIdGet">
+            <summary>Sets the shim of Time.get_timeId()</summary>
+        </member>
+        <member name="P:DTO.Fakes.ShimTime.timeIdSetInt32">
+            <summary>Sets the shim of Time.set_timeId(Int32 value)</summary>
+        </member>
+        <member name="T:DTO.Fakes.StubBook">
+            <summary>Stub type of DTO.Book</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubBook.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubBook.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubBook.InitializeStub">
+            <summary>Initializes a new instance of type StubBook</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubBook.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubBook.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:DTO.Fakes.StubClosedGroup">
+            <summary>Stub type of DTO.ClosedGroup</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubClosedGroup.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubClosedGroup.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubClosedGroup.InitializeStub">
+            <summary>Initializes a new instance of type StubClosedGroup</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubClosedGroup.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubClosedGroup.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:DTO.Fakes.StubLearner">
+            <summary>Stub type of DTO.Learner</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubLearner.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubLearner.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubLearner.InitializeStub">
+            <summary>Initializes a new instance of type StubLearner</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubLearner.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubLearner.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:DTO.Fakes.StubLearningMaterial">
+            <summary>Stub type of DTO.LearningMaterial</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubLearningMaterial.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubLearningMaterial.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubLearningMaterial.InitializeStub">
+            <summary>Initializes a new instance of type StubLearningMaterial</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubLearningMaterial.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubLearningMaterial.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:DTO.Fakes.StubMatching">
+            <summary>Stub type of DTO.Matching</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubMatching.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubMatching.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubMatching.InitializeStub">
+            <summary>Initializes a new instance of type StubMatching</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubMatching.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubMatching.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:DTO.Fakes.StubOccupation">
+            <summary>Stub type of DTO.Occupation</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubOccupation.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubOccupation.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubOccupation.InitializeStub">
+            <summary>Initializes a new instance of type StubOccupation</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubOccupation.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubOccupation.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:DTO.Fakes.StubRequest">
+            <summary>Stub type of DTO.Request</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubRequest.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubRequest.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubRequest.InitializeStub">
+            <summary>Initializes a new instance of type StubRequest</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubRequest.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubRequest.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:DTO.Fakes.StubTime">
+            <summary>Stub type of DTO.Time</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubTime.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubTime.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:DTO.Fakes.StubTime.InitializeStub">
+            <summary>Initializes a new instance of type StubTime</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubTime.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:DTO.Fakes.StubTime.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

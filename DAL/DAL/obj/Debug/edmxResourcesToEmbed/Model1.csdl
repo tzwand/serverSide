@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BTProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Book_tbl">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BookName" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="parentBookId" Type="Int32" />
+    <Property Name="bookpayment" Type="Double" />
+    <Property Name="Bookinfo" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="learningMaterial_tbl" Relationship="Self.FK__learningM__bookI__4BAC3F29" FromRole="Book_tbl" ToRole="learningMaterial_tbl" />
+    <NavigationProperty Name="Matching_tbl" Relationship="Self.FK__Matching___bookI__4D94879B" FromRole="Book_tbl" ToRole="Matching_tbl" />
+    <NavigationProperty Name="request_tbl" Relationship="Self.FK__request_t__BookI__5070F446" FromRole="Book_tbl" ToRole="request_tbl" />
+  </EntityType>
+  <EntityType Name="closedGroup_tbl">
+    <Key>
+      <PropertyRef Name="GroupId" />
+    </Key>
+    <Property Name="GroupId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="groupName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="reqId" Type="Int32" />
+    <NavigationProperty Name="request_tbl" Relationship="Self.FK__closedGro__reqId__48CFD27E" FromRole="closedGroup_tbl" ToRole="request_tbl" />
+    <NavigationProperty Name="learners_tbl" Relationship="Self.FK__learners___group__49C3F6B7" FromRole="closedGroup_tbl" ToRole="learners_tbl" />
+  </EntityType>
+  <EntityType Name="learners_tbl">
+    <Key>
+      <PropertyRef Name="learnerId" />
+    </Key>
+    <Property Name="learnerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="learnerName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="learnerEmail" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="gender" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="occuptionId" Type="Int32" />
+    <Property Name="sosRequests" Type="Boolean" />
+    <Property Name="startDate" Type="DateTime" Precision="3" />
+    <Property Name="endDate" Type="DateTime" Precision="3" />
+    <Property Name="groupId" Type="Int32" />
+    <Property Name="wantsToJoin" Type="Boolean" />
+    <Property Name="password" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="reminder" Type="Boolean" />
+    <NavigationProperty Name="closedGroup_tbl" Relationship="Self.FK__learners___group__49C3F6B7" FromRole="learners_tbl" ToRole="closedGroup_tbl" />
+    <NavigationProperty Name="occuption_tbl" Relationship="Self.FK__learners___occup__4AB81AF0" FromRole="learners_tbl" ToRole="occuption_tbl" />
+    <NavigationProperty Name="learningMaterial_tbl" Relationship="Self.FK__learningM__learn__4CA06362" FromRole="learners_tbl" ToRole="learningMaterial_tbl" />
+    <NavigationProperty Name="Matching_tbl" Relationship="Self.FK__Matching___learn__4E88ABD4" FromRole="learners_tbl" ToRole="Matching_tbl" />
+  </EntityType>
+  <EntityType Name="learningMaterial_tbl">
+    <Key>
+      <PropertyRef Name="learnerId" />
+      <PropertyRef Name="bookId" />
+    </Key>
+    <Property Name="learnerId" Type="Int32" Nullable="false" />
+    <Property Name="bookId" Type="Int32" Nullable="false" />
+    <Property Name="amount" Type="Int32" />
+    <NavigationProperty Name="Book_tbl" Relationship="Self.FK__learningM__bookI__4BAC3F29" FromRole="learningMaterial_tbl" ToRole="Book_tbl" />
+    <NavigationProperty Name="learners_tbl" Relationship="Self.FK__learningM__learn__4CA06362" FromRole="learningMaterial_tbl" ToRole="learners_tbl" />
+  </EntityType>
+  <EntityType Name="Matching_tbl">
+    <Key>
+      <PropertyRef Name="learnerId" />
+      <PropertyRef Name="bookId" />
+      <PropertyRef Name="reqId" />
+    </Key>
+    <Property Name="learnerId" Type="Int32" Nullable="false" />
+    <Property Name="bookId" Type="Int32" Nullable="false" />
+    <Property Name="reqId" Type="Int32" Nullable="false" />
+    <Property Name="amount" Type="Int32" />
+    <Property Name="finished" Type="Double" />
+    <NavigationProperty Name="Book_tbl" Relationship="Self.FK__Matching___bookI__4D94879B" FromRole="Matching_tbl" ToRole="Book_tbl" />
+    <NavigationProperty Name="learners_tbl" Relationship="Self.FK__Matching___learn__4E88ABD4" FromRole="Matching_tbl" ToRole="learners_tbl" />
+    <NavigationProperty Name="request_tbl" Relationship="Self.FK__Matching___reqId__4F7CD00D" FromRole="Matching_tbl" ToRole="request_tbl" />
+  </EntityType>
+  <EntityType Name="occuption_tbl">
+    <Key>
+      <PropertyRef Name="occuptionId" />
+    </Key>
+    <Property Name="occuptionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="occupationName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="gender" Type="String" MaxLength="8" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="learners_tbl" Relationship="Self.FK__learners___occup__4AB81AF0" FromRole="occuption_tbl" ToRole="learners_tbl" />
+    <NavigationProperty Name="request_tbl" Relationship="Self.FK__request_t__occup__5165187F" FromRole="occuption_tbl" ToRole="request_tbl" />
+  </EntityType>
+  <EntityType Name="request_tbl">
+    <Key>
+      <PropertyRef Name="reqId" />
+    </Key>
+    <Property Name="reqId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="donorName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="donorEmail" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="reqPurpose" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="BookId" Type="Int32" Nullable="false" />
+    <Property Name="timeId" Type="Int32" />
+    <Property Name="reqStartDate" Type="DateTime" Precision="3" />
+    <Property Name="reqEndDate" Type="DateTime" Precision="3" />
+    <Property Name="sosDate" Type="DateTime" Precision="3" />
+    <Property Name="payment" Type="Double" />
+    <Property Name="sosPayment" Type="Double" />
+    <Property Name="occuptionId" Type="Int32" />
+    <Property Name="genderid" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="extraInfo" Type="String" MaxLength="350" FixedLength="false" Unicode="false" />
+    <Property Name="RegisterEndDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Book_tbl" Relationship="Self.FK__request_t__BookI__5070F446" FromRole="request_tbl" ToRole="Book_tbl" />
+    <NavigationProperty Name="closedGroup_tbl" Relationship="Self.FK__closedGro__reqId__48CFD27E" FromRole="request_tbl" ToRole="closedGroup_tbl" />
+    <NavigationProperty Name="Matching_tbl" Relationship="Self.FK__Matching___reqId__4F7CD00D" FromRole="request_tbl" ToRole="Matching_tbl" />
+    <NavigationProperty Name="occuption_tbl" Relationship="Self.FK__request_t__occup__5165187F" FromRole="request_tbl" ToRole="occuption_tbl" />
+    <NavigationProperty Name="time_tbl" Relationship="Self.FK__request_t__timeI__52593CB8" FromRole="request_tbl" ToRole="time_tbl" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="time_tbl">
+    <Key>
+      <PropertyRef Name="timeId" />
+    </Key>
+    <Property Name="timeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="timeDesc" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="request_tbl" Relationship="Self.FK__request_t__timeI__52593CB8" FromRole="time_tbl" ToRole="request_tbl" />
+  </EntityType>
+  <Association Name="FK__learningM__bookI__4BAC3F29">
+    <End Role="Book_tbl" Type="Self.Book_tbl" Multiplicity="1" />
+    <End Role="learningMaterial_tbl" Type="Self.learningMaterial_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book_tbl">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="learningMaterial_tbl">
+        <PropertyRef Name="bookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Matching___bookI__4D94879B">
+    <End Role="Book_tbl" Type="Self.Book_tbl" Multiplicity="1" />
+    <End Role="Matching_tbl" Type="Self.Matching_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book_tbl">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="Matching_tbl">
+        <PropertyRef Name="bookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__request_t__BookI__5070F446">
+    <End Role="Book_tbl" Type="Self.Book_tbl" Multiplicity="1" />
+    <End Role="request_tbl" Type="Self.request_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book_tbl">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="request_tbl">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__closedGro__reqId__48CFD27E">
+    <End Role="request_tbl" Type="Self.request_tbl" Multiplicity="0..1" />
+    <End Role="closedGroup_tbl" Type="Self.closedGroup_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="request_tbl">
+        <PropertyRef Name="reqId" />
+      </Principal>
+      <Dependent Role="closedGroup_tbl">
+        <PropertyRef Name="reqId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__learners___group__49C3F6B7">
+    <End Role="closedGroup_tbl" Type="Self.closedGroup_tbl" Multiplicity="0..1" />
+    <End Role="learners_tbl" Type="Self.learners_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="closedGroup_tbl">
+        <PropertyRef Name="GroupId" />
+      </Principal>
+      <Dependent Role="learners_tbl">
+        <PropertyRef Name="groupId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__learners___occup__4AB81AF0">
+    <End Role="occuption_tbl" Type="Self.occuption_tbl" Multiplicity="0..1" />
+    <End Role="learners_tbl" Type="Self.learners_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="occuption_tbl">
+        <PropertyRef Name="occuptionId" />
+      </Principal>
+      <Dependent Role="learners_tbl">
+        <PropertyRef Name="occuptionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__learningM__learn__4CA06362">
+    <End Role="learners_tbl" Type="Self.learners_tbl" Multiplicity="1" />
+    <End Role="learningMaterial_tbl" Type="Self.learningMaterial_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="learners_tbl">
+        <PropertyRef Name="learnerId" />
+      </Principal>
+      <Dependent Role="learningMaterial_tbl">
+        <PropertyRef Name="learnerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Matching___learn__4E88ABD4">
+    <End Role="learners_tbl" Type="Self.learners_tbl" Multiplicity="1" />
+    <End Role="Matching_tbl" Type="Self.Matching_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="learners_tbl">
+        <PropertyRef Name="learnerId" />
+      </Principal>
+      <Dependent Role="Matching_tbl">
+        <PropertyRef Name="learnerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Matching___reqId__4F7CD00D">
+    <End Role="request_tbl" Type="Self.request_tbl" Multiplicity="1" />
+    <End Role="Matching_tbl" Type="Self.Matching_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="request_tbl">
+        <PropertyRef Name="reqId" />
+      </Principal>
+      <Dependent Role="Matching_tbl">
+        <PropertyRef Name="reqId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__request_t__occup__5165187F">
+    <End Role="occuption_tbl" Type="Self.occuption_tbl" Multiplicity="0..1" />
+    <End Role="request_tbl" Type="Self.request_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="occuption_tbl">
+        <PropertyRef Name="occuptionId" />
+      </Principal>
+      <Dependent Role="request_tbl">
+        <PropertyRef Name="occuptionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__request_t__timeI__52593CB8">
+    <End Role="time_tbl" Type="Self.time_tbl" Multiplicity="0..1" />
+    <End Role="request_tbl" Type="Self.request_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="time_tbl">
+        <PropertyRef Name="timeId" />
+      </Principal>
+      <Dependent Role="request_tbl">
+        <PropertyRef Name="timeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BTProjectEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Book_tbl" EntityType="Self.Book_tbl" />
+    <EntitySet Name="closedGroup_tbl" EntityType="Self.closedGroup_tbl" />
+    <EntitySet Name="learners_tbl" EntityType="Self.learners_tbl" />
+    <EntitySet Name="learningMaterial_tbl" EntityType="Self.learningMaterial_tbl" />
+    <EntitySet Name="Matching_tbl" EntityType="Self.Matching_tbl" />
+    <EntitySet Name="occuption_tbl" EntityType="Self.occuption_tbl" />
+    <EntitySet Name="request_tbl" EntityType="Self.request_tbl" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="time_tbl" EntityType="Self.time_tbl" />
+    <AssociationSet Name="FK__learningM__bookI__4BAC3F29" Association="Self.FK__learningM__bookI__4BAC3F29">
+      <End Role="Book_tbl" EntitySet="Book_tbl" />
+      <End Role="learningMaterial_tbl" EntitySet="learningMaterial_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Matching___bookI__4D94879B" Association="Self.FK__Matching___bookI__4D94879B">
+      <End Role="Book_tbl" EntitySet="Book_tbl" />
+      <End Role="Matching_tbl" EntitySet="Matching_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__request_t__BookI__5070F446" Association="Self.FK__request_t__BookI__5070F446">
+      <End Role="Book_tbl" EntitySet="Book_tbl" />
+      <End Role="request_tbl" EntitySet="request_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__closedGro__reqId__48CFD27E" Association="Self.FK__closedGro__reqId__48CFD27E">
+      <End Role="request_tbl" EntitySet="request_tbl" />
+      <End Role="closedGroup_tbl" EntitySet="closedGroup_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__learners___group__49C3F6B7" Association="Self.FK__learners___group__49C3F6B7">
+      <End Role="closedGroup_tbl" EntitySet="closedGroup_tbl" />
+      <End Role="learners_tbl" EntitySet="learners_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__learners___occup__4AB81AF0" Association="Self.FK__learners___occup__4AB81AF0">
+      <End Role="occuption_tbl" EntitySet="occuption_tbl" />
+      <End Role="learners_tbl" EntitySet="learners_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__learningM__learn__4CA06362" Association="Self.FK__learningM__learn__4CA06362">
+      <End Role="learners_tbl" EntitySet="learners_tbl" />
+      <End Role="learningMaterial_tbl" EntitySet="learningMaterial_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Matching___learn__4E88ABD4" Association="Self.FK__Matching___learn__4E88ABD4">
+      <End Role="learners_tbl" EntitySet="learners_tbl" />
+      <End Role="Matching_tbl" EntitySet="Matching_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Matching___reqId__4F7CD00D" Association="Self.FK__Matching___reqId__4F7CD00D">
+      <End Role="request_tbl" EntitySet="request_tbl" />
+      <End Role="Matching_tbl" EntitySet="Matching_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__request_t__occup__5165187F" Association="Self.FK__request_t__occup__5165187F">
+      <End Role="occuption_tbl" EntitySet="occuption_tbl" />
+      <End Role="request_tbl" EntitySet="request_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__request_t__timeI__52593CB8" Association="Self.FK__request_t__timeI__52593CB8">
+      <End Role="time_tbl" EntitySet="time_tbl" />
+      <End Role="request_tbl" EntitySet="request_tbl" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

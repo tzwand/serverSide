@@ -1,0 +1,24 @@
+
+<h3>הסכום המקובל ללימוד שבחרת הוא:{{sum}}</h3><br>
+<!-- <br> -->
+<h4 class="text-success">להגדרת סכום שונה סמן כאן</h4>
+<nb-checkbox type="checkbox" id="diffPrice" (change)="diffPrice=!diffPrice"></nb-checkbox>
+<div *ngIf="diffPrice">
+<h4 >הגדר את הסכום הרצוי<h3>
+<input nbInput type="number" id="donorSum" [(ngModel)]="req.donor.sum"/>
+<!-- <br><br> -->
+
+<h4 class="text-success">האם אתה מעונין להציע סכום גבוה יותר בזמן קריטי?</h4>
+<!-- <br> -->
+<nb-checkbox type="checkbox" id="sos" (change)="sos=!sos"></nb-checkbox>
+<!-- <input type="checkbox" id="sos" (change)="sos=!sos"><br> -->
+    <div *ngIf="sos" >
+      <h4>הסכום שאתה מציע לזמן קריטי</h4>
+      <!-- <br> -->
+      <input  nbInput type="number" [(ngModel)]="req.donor.sosSum" type="text" id="sosSum" /><br>
+      <h4>התאריך הקריטי מבחינתך  </h4>
+      <input [nbDatepicker]="datepicker">
+      <nb-datepicker #datepicker></nb-datepicker>
+      <!-- <input type="datetime"  [(ngModel)]="req.donor.sosDate"  id="sosDate"/><br> -->
+    </div>
+<!-- <button (click)="next()">הבא</button><br> -->

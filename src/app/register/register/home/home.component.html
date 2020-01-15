@@ -1,0 +1,10 @@
+﻿<h2>שלום {{currentUser.firstName}}!</h1>h2
+<h2>ברוך הבא לכולל שלנו!</h2>
+<h3>המשתמשים הרשומים</h3>
+<ul>
+    <li *ngFor="let user of users">
+        {{user.username}} ({{user.firstName}} {{user.lastName}})
+        - <a (click)="deleteUser(user.id)" class="text-danger">מחיקה</a>
+    </li>
+</ul>
+<p><a [routerLink]="['/login']">יציאה</a></p>

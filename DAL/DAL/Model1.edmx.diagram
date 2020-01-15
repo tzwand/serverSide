@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e7a5bdf648a0416784e8179041aee139" Name="Diagram1">
+        <EntityTypeShape EntityType="BTProjectModel.Book_tbl" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.closedGroup_tbl" Width="1.5" PointX="8.25" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.learners_tbl" Width="1.5" PointX="10.5" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.learningMaterial_tbl" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.Matching_tbl" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.occuption_tbl" Width="1.5" PointX="3.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.request_tbl" Width="1.5" PointX="6" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.time_tbl" Width="1.5" PointX="3.75" PointY="11.5" IsExpanded="true" />
+        <AssociationConnector Association="BTProjectModel.FK__learningM__bookI__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__Matching___bookI__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__request_t__BookI__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__closedGro__reqId__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__learners___group__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__learners___occup__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__learningM__learn__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__Matching___learn__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__Matching___reqId__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__request_t__occup__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="BTProjectModel.FK__request_t__timeI__52593CB8" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

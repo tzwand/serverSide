@@ -1,0 +1,60 @@
+
+<br>
+<h4 class="text-primary">פרטים אישיים</h4>
+<!-- <br> -->
+<label>שם משתמש</label>
+<!-- <br> -->
+<label>{{userName}}</label>
+<!-- <br> -->
+<label>מייל</label>
+<!-- <br> -->
+<label>{{email}}</label>
+<br>
+<h4 class="text-primary">מטרת הבקשה</h4>
+<!-- <br> -->
+<label> {{purpose}}</label>
+<br>
+<!-- <br> -->
+<h4 class="text-primary"> טווח זמן</h4>
+<!-- <br> -->
+<label>{{timeType}}</label>
+<!-- <br> -->
+
+<!-- <br> -->
+<h5>החל מ:</h5>
+<!-- <br> -->
+<label>{{startDate|date}}</label>
+<!-- <br> -->
+<h5>עד:</h5>
+<!-- <br> -->
+<label>{{endDate|date}}</label>
+<!-- <br>
+<br> -->
+<h4 class="text-primary">סה"כ  הסכום לתשלום</h4>
+<!-- <br> -->
+<label>{{maxPrice}}</label>
+<!-- <br> -->
+<h5>מתוכו סכום המוגדר רק עבור זמן קריטי:</h5>
+<!-- <br> -->
+<label>{{sosPrice}}</label>
+<!-- <br>
+<br> -->
+<h4 class="text-primary">הקבוצות שהגדרת מתוך לומדי המערכת שלנו:</h4>
+<!-- <br> -->
+
+<select>
+    <option *ngFor= "let c of chosen"></option>
+</select>
+<!-- <br>
+<br> -->
+<br>
+<nb-checkbox></nb-checkbox>
+<h4 class="text-warning">אני מסכים לכללי המערכת</h4>
+
+
+
+
+
+
+<a href="#" >לקריאה</a>
+<button nbButton class=" btn btn-success" (click)="next()">אישור</button>

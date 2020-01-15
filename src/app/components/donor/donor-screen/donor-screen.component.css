@@ -1,0 +1,9 @@
+:host /deep/ nb-card nb-card-body   {
+  background-color:white;
+}
+:host /deep/ nb-select   {
+  width:25%;
+}
+:host /deep/ p-fileUpload   {
+  width:50%;
+}

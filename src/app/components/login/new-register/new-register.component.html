@@ -1,0 +1,55 @@
+<div class="rtl">
+  <h2>הרשמה</h2>
+  <div class="container">
+    <form class="form" #formRegisterperson="ngForm" (ngSubmit)="saveForm()">
+
+    <div class="form-group" >
+        <label for="Name">שם</label>
+      <input nbInput type="text" name="id" [(ngModel)]="newperson.name" class="form-control" placeholder="שם" #personName="ngModel" required  [ngClass]="{ 'is-invalid': personName.invalid && (personName.dirty || personName.touched) }">
+      <div class="alert-danger" *ngIf="personName.invalid && (personName.dirty || personName.touched)" >
+      <div class="alert-danger" *ngIf="personName.errors.required">שם הוא שדה חובה</div>
+
+      </div>
+    </div>
+
+    <div class="form-group"  >
+        <label for="email">מייל</label>
+      <input nbInput  class="ltr" type="text" name="email" [(ngModel)]="newperson.email" class="form-control" placeholder="מייל" #personEmail="ngModel" required email  [ngClass]="{ 'is-invalid': personEmail.invalid && (personEmail.dirty || personEmail.touched) }">
+      <div class="alert-danger" *ngIf="personEmail.invalid && (personEmail.dirty || personEmail.touched)" >
+          <div class="alert-danger" *ngIf="personEmail.errors.required">חובה להכניס כתובת מייל</div>
+          <div class="alert-danger" *ngIf="personEmail.errors.email">כתובת מייל חייבת להיות תקנית</div>
+    </div>
+  </div>
+
+
+
+
+    <!-- <div class="form-group" >
+        <label for="lastName">סיסמא</label>
+      <input type="password" name="password" [(ngModel)]="newperson.password" class="form-control"  placeholder="סיסמא" #personPassword="ngModel" required minlength="6" [ngClass]="{ 'is-invalid': personPassword.invalid && (personPassword.dirty || personPassword.touched) }" >
+      <div *ngIf="personPassword.invalid && (personPassword.dirty ||personPassword.touched)">
+      <div class="alert-danger" *ngIf="personPassword.errors.required">חובה להכניס סיסמא</div>
+       <div class="alert-danger"*ngIf="personPassword.errors.pattern">הסיסמא חייבת להכיל אותיות ומספרים </div> -->
+      <!-- <div class="alert-danger" *ngIf="personPassword.errors.minlength">הסיסמא חייבת להכיל לפחות ששה תוים</div>
+    </div>
+    </div>
+
+    <div class="form-group" >
+        <label for="lastName">אימות סיסמא</label>
+        <input type="password" name="password2" [(ngModel)]="temp" class="form-control"  placeholder="אימות סיסמא" #passwordValidation="ngModel" required  [ngClass]="{ 'is-invalid': passwordValidation.invalid && (passwordValidation.dirty || passwordValidation.touched) }" >
+        <div *ngIf="passwordValidation.invalid && temp != newperson.password && (passwordValidation.dirty ||passwordValidation.touched)">
+        <div class="alert-danger" *ngIf="passwordValidation.errors.required"> חובה להכניס סיסמא שוב</div>
+        <div class="alert-danger"*ngIf="temp != newperson.password">הסיסמא חייבת להיות זהה  </div>
+
+      </div>
+      </div>  -->
+   <div class="ltr">
+    <button nbButton type="submit" class="btn btn-success" [disabled]="!formRegisterperson.form.valid" >שלח</button>
+    <img *ngIf="loading" src="data:image/gif;base64,R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAADMwi63P4wyklrE2MIOggZnAdOmGYJRbExwroUmcG2LmDEwnHQLVsYOd2mBzkYDAdKa+dIAAAh+QQJCgAAACwAAAAAEAAQAAADNAi63P5OjCEgG4QMu7DmikRxQlFUYDEZIGBMRVsaqHwctXXf7WEYB4Ag1xjihkMZsiUkKhIAIfkECQoAAAAsAAAAABAAEAAAAzYIujIjK8pByJDMlFYvBoVjHA70GU7xSUJhmKtwHPAKzLO9HMaoKwJZ7Rf8AYPDDzKpZBqfvwQAIfkECQoAAAAsAAAAABAAEAAAAzMIumIlK8oyhpHsnFZfhYumCYUhDAQxRIdhHBGqRoKw0R8DYlJd8z0fMDgsGo/IpHI5TAAAIfkECQoAAAAsAAAAABAAEAAAAzIIunInK0rnZBTwGPNMgQwmdsNgXGJUlIWEuR5oWUIpz8pAEAMe6TwfwyYsGo/IpFKSAAAh+QQJCgAAACwAAAAAEAAQAAADMwi6IMKQORfjdOe82p4wGccc4CEuQradylesojEMBgsUc2G7sDX3lQGBMLAJibufbSlKAAAh+QQJCgAAACwAAAAAEAAQAAADMgi63P7wCRHZnFVdmgHu2nFwlWCI3WGc3TSWhUFGxTAUkGCbtgENBMJAEJsxgMLWzpEAACH5BAkKAAAALAAAAAAQABAAAAMyCLrc/jDKSatlQtScKdceCAjDII7HcQ4EMTCpyrCuUBjCYRgHVtqlAiB1YhiCnlsRkAAAOwAAAAAAAAAAAA==" />
+          <a [routerLink]="['/login']" class="btn btn-link">ביטול</a>
+        </div>
+    </form>
+  </div>
+
+
+

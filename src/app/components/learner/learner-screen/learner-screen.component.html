@@ -1,0 +1,27 @@
+<div>ברוך הבא
+  <!-- <label [(ngModel)]="addService.learner."></label> -->
+</div>
+<div class="ui-g">
+
+        <p-scrollPanel [style]="{width: '50%', height: '50%'}">
+          <div style="padding:1em;line-height:1.5">
+    
+            <nb-card *ngFor="let card of cards" accent="success" status="primary">
+              <nb-card-header>
+              </nb-card-header>
+              <nb-card-body>
+                {{card}}
+              </nb-card-body>
+            </nb-card>
+            <br>
+
+          </div>
+        </p-scrollPanel>
+    
+      </div>
+      <!-- <div *ngIf="show"> -->
+        <ng2-smart-table [settings]="settings" [source]="data" (deleteConfirm)="onDeleteConfirm($event)" 
+        (editConfirm)="onSaveConfirm($event)"
+        (createConfirm)="onCreateConfirm($event)"></ng2-smart-table>
+        
+    <!-- </div> -->

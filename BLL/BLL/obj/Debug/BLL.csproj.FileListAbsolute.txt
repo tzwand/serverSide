@@ -1,0 +1,173 @@
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\BLL.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\BLL.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\DAL.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\EntityFramework.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\DAL.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\DAL.dll.config
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\EntityFramework.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\obj\Debug\BLL.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\obj\Debug\BLL.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\DTO.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\DTO.pdb
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Batya and Tzipora\ט איר הפרויקט מחדש\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\בתיה וציפורה\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\בתיה וציפורה\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\בתיה וציפורה\BLL\BLL\obj\Debug\BLL.dll
+D:\בתיה וציפורה\BLL\BLL\obj\Debug\BLL.pdb
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\BLL.dll
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\BLL.pdb
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\DAL.dll
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\DTO.dll
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\EntityFramework.dll
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\DAL.pdb
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\DAL.dll.config
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\DTO.pdb
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\EntityFramework.xml
+D:\בתיה וציפורה\BLL\BLL\bin\Debug\EntityFramework.SqlServer.xml
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\obj\Debug\BLL.dll
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\obj\Debug\BLL.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\BLL.dll
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\BLL.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\DAL.dll
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\DTO.dll
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\EntityFramework.dll
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\DAL.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\DAL.dll.config
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\DTO.pdb
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\EntityFramework.xml
+\\Comp-h-19\ddd\בתיה וציפורה\BLL\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\BLL.dll
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\BLL.pdb
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DAL.dll
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DTO.dll
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\EntityFramework.dll
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DAL.pdb
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DAL.dll.config
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DTO.pdb
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\obj\Debug\BLL.dll
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\obj\Debug\BLL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\obj\Debug\BLL.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\obj\Debug\BLL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\BLL.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\BLL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DAL.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DTO.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\EntityFramework.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DAL.pdb
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DAL.dll.config
+\\Comp-h-06\ddd\צפורה ובתיה -ה תמוז\BLL\BLL\bin\Debug\DTO.pdb
+D:\צפורה ובתיה -ה תמוז\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\BLL.dll
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\BLL.pdb
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\DAL.dll
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\DTO.dll
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\EntityFramework.dll
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\DAL.pdb
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\DAL.dll.config
+D:\project\Batya & Tzipora\BLL\BLL\bin\Debug\DTO.pdb
+D:\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.dll
+D:\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\BLL.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\BLL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\DAL.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\DTO.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\EntityFramework.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\DAL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\DAL.dll.config
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\DTO.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.dll
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\obj\Debug\BLL.pdb
+C:\Users\בתיה\Documents\project\Batya & Tzipora\BLL\BLL\bin\Debug\BLL.dll.config
+C:\Users\בתיה\Documents\project\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\בתיה\Documents\project\BLL\BLL\obj\Debug\BLL.dll
+C:\Users\בתיה\Documents\project\BLL\BLL\obj\Debug\BLL.pdb
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\BLL.dll.config
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\BLL.dll
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\BLL.pdb
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\DAL.dll
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\DTO.dll
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\EntityFramework.dll
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\DAL.pdb
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\DAL.dll.config
+C:\Users\בתיה\Documents\project\BLL\BLL\bin\Debug\DTO.pdb
+C:\Users\בתיה\Documents\project\BLL\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\BLL.dll.config
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\BLL.dll
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\BLL.pdb
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DAL.dll
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DTO.dll
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\EntityFramework.dll
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DAL.pdb
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DAL.dll.config
+D:\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DTO.pdb
+D:\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.dll
+D:\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\BLL.dll.config
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\BLL.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\BLL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DAL.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DTO.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\EntityFramework.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DAL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DAL.dll.config
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\bin\Debug\DTO.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.dll
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.pdb
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.Properties.Resources.resources
+E:\tzippporah\כל השכבות מבתיה בד אב\BLL\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\obj\Debug\BLL.dll
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\obj\Debug\BLL.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\BLL.dll.config
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\BLL.dll
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\BLL.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\DAL.dll
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\DTO.dll
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\EntityFramework.dll
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\DAL.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\DAL.dll.config
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\DTO.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\ExcelDataReader.dll
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\ExcelDataReader.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\ExcelDataReader.xml
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\tzipp\BTProject\cheshvanProject\BLL\BLL\obj\Debug\BLL.csprojAssemblyReference.cache

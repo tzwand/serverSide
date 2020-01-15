@@ -1,0 +1,16 @@
+<div>
+  <h4>בחר את הספר הרצוי מתוך רשימת הספרים או הכנס ספר משלך:</h4>
+  <table>לכאן צריך להכניס טבלה משוכללת </table>
+  <input nbButton type="button"  value="להכנסת ספר משלך" (click)="createNewBookArea()"/>
+  <br>
+  <!-- <nb-checkbox type="checkbox" id="new" (change)="new=!new"></nb-checkbox> -->
+  <div *ngIf="newBook">
+    שם הספר<input nbInput type="text" [(ngModel)]="chosen.BookName" />
+
+    <br/>
+
+    תאור קצר על הספר<input  nbInput type="text" [(ngModel)]="chosen.BookInfo" />
+
+
+</div>
+</div>

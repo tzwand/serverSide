@@ -1,0 +1,49 @@
+<div>
+  <h5>כדי להכניס רשימה מוכנה דרך אקסל לחץ כאן</h5>
+  <p-fileUpload name="myfile[]" url="C:\Users\Administrator\Documents" multiple="multiple" accept=".xlsx" [auto]="true"></p-fileUpload>
+
+  <h4>הגדרת קבוצות אישיות:</h4>
+  <!-- <br> -->
+  <h5>לפי ההגדרות שתכניס כאן המערכת תשלח את בקשתך ללומדים המתאימים.</h5>
+  <!-- <br> -->
+  <!-- <nb-radio-group [(value)]="selected" >
+    <nb-radio  (change)="mychange($event)"> זכר</nb-radio>
+    <nb-radio  (change)="mychange($event)"> נקבה</nb-radio>
+    <nb-radio  (change)="mychange($event)"> לא משנה</nb-radio>
+  </nb-radio-group> -->
+
+    <nb-checkbox  (change)="mychange(0)"> זכר</nb-checkbox>
+    <nb-checkbox   (change)="mychange(1)"> נקבה</nb-checkbox>
+    <nb-checkbox  (change)="mychange(2)"> לא משנה</nb-checkbox>
+
+
+<!-- <mat-radio-group
+  aria-labelledby="example-radio-group-label"
+  class="example-radio-group"
+  [(ngModel)]="selected">
+  <mat-radio-button class="example-radio-button" *ngFor="let gender of genders " [value]="gender">
+    {{gender}}
+  </mat-radio-button>
+</mat-radio-group> -->
+<!-- <div>Your wanted gender is: {{selected}}</div> -->
+
+  <!-- <input type="radio" name="gender" value="זכר" [(ngModel)]="selected" (change)="mychange()" />זכר
+  <input type="radio" name="gender" value="נקבה" [(ngModel)]="selected" (change)="mychange()" />נקבה
+  <input type="radio" name="gender" value="לא משנה" [(ngModel)]="selected" (change)="mychange()" checked/>לא משנה -->
+  <nb-select multiple status="primary" placeholder="בחר..." filled="false" [(ngModel)]="req.donor.occuptionDesc" >
+    <nb-option *ngFor="let occuption of viewOccupations" >{{occuption.occupationName}}</nb-option>
+  </nb-select>
+
+  <nb-select multiple status="primary" placeholder="בחר..." filled="false" [(ngModel)]="chosenTest" >
+      <nb-option *ngFor="let test of viewtest" >{{test}}</nb-option>
+    </nb-select>
+  <!-- <select id="idOccuption" [(ngModel)]="req.donor.occuptionDesc">
+    <br>
+    <option *ngFor="let occuption of viewOccupations">{{occuption.occupationName}} </option>
+  </select> -->
+  <label>
+</label>
+
+
+</div>
+<br>

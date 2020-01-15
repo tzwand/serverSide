@@ -1,0 +1,73 @@
+<div class="rtl">
+<!-- <a [routerLink]="['purpose']" class="btn btn-link">לימוד חדש</a> -->
+<!-- <button (click)="newl()">לימוד חדש</button> -->
+<!-- <router-outlet></router-outlet> -->
+<nb-stepper orientation="horizontal">
+  <nb-step label="פרטים אישיים">
+     <nb-card accent="success" card-background-color="#ffffff">
+        <nb-card-header>
+            <h3 class="text-success">תודה שבחרת באוצר הלימוד  </h3>
+      </nb-card-header>
+      <nb-card-body>
+        <app-purpose></app-purpose>
+      </nb-card-body>
+      </nb-card>
+  </nb-step>
+  <nb-step label="בחירת ספר">
+      <nb-card accent="success" card-background-color="#ffffff">
+          <nb-card-header>
+
+        </nb-card-header>
+        <nb-card-body>
+          <app-book></app-book>
+        </nb-card-body>
+        </nb-card>
+
+    </nb-step>
+  <nb-step label="תשלום">
+      <nb-card accent="success" card-background-color="#ffffff">
+          <nb-card-header>
+              <h2 class="text-success">תשלום </h2>
+        </nb-card-header>
+        <nb-card-body>
+          <app-payments></app-payments>
+        </nb-card-body>
+        </nb-card>
+
+    </nb-step>
+    <nb-step label="טווח זמן">
+        <nb-card accent="success" card-background-color="#ffffff">
+            <nb-card-header>
+                <h2 class="text-success">טווח זמן</h2>
+          </nb-card-header>
+          <nb-card-body>
+            <app-time></app-time>
+          </nb-card-body>
+          </nb-card>
+
+  </nb-step>
+
+  <nb-step label="קבוצות לומדים">
+      <nb-card accent="success" card-background-color="#ffffff">
+          <nb-card-header>
+              <h2 class="text-success">קבוצות</h2>
+        </nb-card-header>
+        <nb-card-body>
+    <app-group></app-group>
+        </nb-card-body>
+        </nb-card>
+
+</nb-step>
+<nb-step label="סיכום">
+    <nb-card accent="success" card-background-color="#ffffff">
+        <nb-card-header>
+            <h3 class="text-success">להלן פרטי הבקשה, עבור עליהם בעיון</h3>
+      </nb-card-header>
+      <nb-card-body>
+      <app-final-screen></app-final-screen>
+      </nb-card-body>
+      </nb-card>
+
+</nb-step>
+</nb-stepper>
+</div>
