@@ -29,9 +29,7 @@ namespace DAL
         public Nullable<int> timeId { get; set; }
         public Nullable<System.DateTime> reqStartDate { get; set; }
         public Nullable<System.DateTime> reqEndDate { get; set; }
-        public Nullable<System.DateTime> sosDate { get; set; }
         public Nullable<double> payment { get; set; }
-        public Nullable<double> sosPayment { get; set; }
         public Nullable<int> occuptionId { get; set; }
         public string genderid { get; set; }
         public string password { get; set; }

@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="e7a5bdf648a0416784e8179041aee139" Name="Diagram1">
+      <Diagram DiagramId="e7a5bdf648a0416784e8179041aee139" Name="Diagram1" ZoomLevel="87">
         <EntityTypeShape EntityType="BTProjectModel.Book_tbl" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
         <EntityTypeShape EntityType="BTProjectModel.closedGroup_tbl" Width="1.5" PointX="8.25" PointY="5.875" IsExpanded="true" />
         <EntityTypeShape EntityType="BTProjectModel.learners_tbl" Width="1.5" PointX="10.5" PointY="4.875" IsExpanded="true" />
@@ -12,7 +12,7 @@
         <EntityTypeShape EntityType="BTProjectModel.Matching_tbl" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
         <EntityTypeShape EntityType="BTProjectModel.occuption_tbl" Width="1.5" PointX="3.75" PointY="8.75" IsExpanded="true" />
         <EntityTypeShape EntityType="BTProjectModel.request_tbl" Width="1.5" PointX="6" PointY="4.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="BTProjectModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BTProjectModel.sysdiagram" Width="1.5" PointX="5.375" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="BTProjectModel.time_tbl" Width="1.5" PointX="3.75" PointY="11.5" IsExpanded="true" />
         <AssociationConnector Association="BTProjectModel.FK__learningM__bookI__4BAC3F29" ManuallyRouted="false" />
         <AssociationConnector Association="BTProjectModel.FK__Matching___bookI__4D94879B" ManuallyRouted="false" />

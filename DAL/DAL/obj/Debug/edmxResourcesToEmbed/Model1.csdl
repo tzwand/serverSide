@@ -32,7 +32,6 @@
     <Property Name="learnerEmail" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
     <Property Name="gender" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
     <Property Name="occuptionId" Type="Int32" />
-    <Property Name="sosRequests" Type="Boolean" />
     <Property Name="startDate" Type="DateTime" Precision="3" />
     <Property Name="endDate" Type="DateTime" Precision="3" />
     <Property Name="groupId" Type="Int32" />
@@ -92,9 +91,7 @@
     <Property Name="timeId" Type="Int32" />
     <Property Name="reqStartDate" Type="DateTime" Precision="3" />
     <Property Name="reqEndDate" Type="DateTime" Precision="3" />
-    <Property Name="sosDate" Type="DateTime" Precision="3" />
     <Property Name="payment" Type="Double" />
-    <Property Name="sosPayment" Type="Double" />
     <Property Name="occuptionId" Type="Int32" />
     <Property Name="genderid" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
     <Property Name="password" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />

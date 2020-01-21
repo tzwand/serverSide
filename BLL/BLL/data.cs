@@ -60,57 +60,57 @@ namespace BLL
             l = l.Where(x => x.learnerId == learnerid).ToList();
             res = CurrentLearnings.cToDTO(l);
             //res = CurrentLearnings.cToDTO(l.Whereb(x => x.learnerId == learnerid).ToList());
-            return res;b
-        }n/ 
-        //fin n/bbn/n/ d the learning by category and learneb, to show differently in calender
-        //category Id is /bn/  a new paremeter in DTO which holds the ancestor id for a learning which is actually the category id
-        public static List<Currn/ entLearnings> GetCurrentLearningByCategory(int learnerid, int bookId)
+            return res;
+        }
+        //find the learning by category and learneb, to show differently in calender
+        //category Id is /bn/  a new paremeter in DTO which holds the ancestor id for a learning 
+        //which is actually the category id
+        public static List<CurrentLearnings> GetCurrentLearningByCategory(int learnerid, int bookId)
         {
- /bnbn/             //create a list of all current learning
-         nbbbn/    List<CurrentLearnings> res = new List<CurrentLearnings>();
-            List<n/ CurrentLearnings> res2 = new List<CurrentLearnings>();
+            //create a list of all current learning
+            List<CurrentLearnings> res = new List<CurrentLearnings>();
+            List<CurrentLearnings> res2 = new List<CurrentLearnings>();
 
-bn            res = GetCurrentLearnings(learnerid);
-    /nb b /bnn/           //search to find the book with the same book id that was sent --which is a category and his anscestor id points to himself and all its which children have it as anscester id 
-            List<n/ Book> b = logic.GetBooksWithAncestor();
-            b = b.Fin b/ bn /nb/ nbbb/n /n/ dAll(mybook => mybook.AncestorId == bookId);
+            res = GetCurrentLearnings(learnerid);
+            //search to find the book with the same book id that was sent 
+            //--which is a category and his anscestor id points to himself and all its which 
+            //children have it as anscester id 
+            List<Book> b = logic.GetBooksWithAncestor();
+            b = b.FindAll(mybook => mybook.AncestorId == bookId);
             //find all the matching books in n/ the CurrentLearnings list
             //search throw all the keys found in nbn /n/ the book list and add all of the books from CurrentLearnings List
             foreach (Book l in b)
-DBNull/ nameof/             {
-
- /nb /nbn/                 res2.AddRange(res.FindAll(currentB => currentB.bookId == l.BookId).ToList());
-            nameof b/nameof/ }
+            {
+                res2.AddRange(res.FindAll(currentB => currentB.bookId == l.BookId).ToList());
+            }
             return res2;
-DBNull/ 
-
- nb/         }
-
- /n bn/         public static string getColorForCatergory(string category)
-        { /bnbn/ 
-            var myn/ ResourceSet = Properties.Resources.ResourceManager.GetResourceSet(CultureInfo.CurrentCulture, true, true);
-            var myStrin  / bbn/ ng = myResourceSet.GetString(category);
-            return myString; nameof/ 
         }
-bbnn/ 
-        /bbn/  public static Learner GetLearnerByEmailAndPassword(string email, string password)
-        {
-nameof/             return getAllLearners().FirstOrDefault(l => l.learnerEmail.Equals(email) && l.password.Equals(password));
 
-nameof/         }
-        pn/ ublic static Request GetRequestByEmailAndPassword(string email, string password)
-        {
-nameof/             return getAllRequests().FirstOrDefault(l => l.donorEmail.Equals(email) && l.password.Equals(password));
-
-nameof/         }
-        pn/ ublic static List<Offer> getCurrentRequests()
-        {
-/ getMatchByDonorLearnerAndBook/ DBNull/             //מחזיר את ההצעות שעדיין ניתן להדשם אליהם. 
-            return (Offer.cToDTO(db.requesb/n/ t_tbl.ToList()).Where(o => (o.registerEndDate) > DateTime.Today)).ToList();
+         public static string getColorForCatergory(string category)
+        { 
+            var myResourceSet = Properties.Resources.ResourceManager.GetResourceSet(CultureInfo.CurrentCulture, true, true);
+            var myString = myResourceSet.GetString(category);
+            return myString;
         }
-namespace/         public static Matching getMatchByDonorLearnerAndBook(string donorId, int learnerId, int bookId)
+ 
+         public static Learner GetLearnerByEmailAndPassword(string email, string password)
         {
-nn/            List<Matching> matchs = new List<Matching>();
+            return getAllLearners().FirstOrDefault(l => l.learnerEmail.Equals(email) && l.password.Equals(password));
+
+         }
+        public static Request GetRequestByEmailAndPassword(string email, string password)
+        {
+             return getAllRequests().FirstOrDefault(l => l.donorEmail.Equals(email) && l.password.Equals(password));
+
+        }
+        public static List<Offer> getCurrentRequests()
+        {
+        //מחזיר את ההצעות שעדיין ניתן להרשם אליהם. 
+            return (Offer.cToDTO(db.request_tbl.ToList()).Where(o => (o.registerEndDate) > DateTime.Today)).ToList();
+        }
+         public static Matching getMatchByDonorLearnerAndBook(string donorId, int learnerId, int bookId)
+        {
+          List<Matching> matchs = new List<Matching>();
             matchs = getAllMatchings();
             //filter by book id and learner id
             matchs = matchs.Where(m => m.learnerId == learnerId && m.bookId == bookId).ToList();

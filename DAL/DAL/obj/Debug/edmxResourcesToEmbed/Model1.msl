@@ -29,7 +29,6 @@
           <ScalarProperty Name="learnerEmail" ColumnName="learnerEmail" />
           <ScalarProperty Name="gender" ColumnName="gender" />
           <ScalarProperty Name="occuptionId" ColumnName="occuptionId" />
-          <ScalarProperty Name="sosRequests" ColumnName="sosRequests" />
           <ScalarProperty Name="startDate" ColumnName="startDate" />
           <ScalarProperty Name="endDate" ColumnName="endDate" />
           <ScalarProperty Name="groupId" ColumnName="groupId" />
@@ -79,9 +78,7 @@
           <ScalarProperty Name="timeId" ColumnName="timeId" />
           <ScalarProperty Name="reqStartDate" ColumnName="reqStartDate" />
           <ScalarProperty Name="reqEndDate" ColumnName="reqEndDate" />
-          <ScalarProperty Name="sosDate" ColumnName="sosDate" />
           <ScalarProperty Name="payment" ColumnName="payment" />
-          <ScalarProperty Name="sosPayment" ColumnName="sosPayment" />
           <ScalarProperty Name="occuptionId" ColumnName="occuptionId" />
           <ScalarProperty Name="genderid" ColumnName="genderid" />
           <ScalarProperty Name="password" ColumnName="password" />

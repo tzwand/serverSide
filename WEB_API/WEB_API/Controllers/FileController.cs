@@ -15,15 +15,13 @@ namespace WEB_API.Controllers
     {
         
         
-            [Route("api/File/SaveFileByBase64/{fileName}/{reqId}/{groupName}")]
-            [HttpPost]
-            public IHttpActionResult SaveFileByBase64(string fileName,int reqId,string groupName, [FromBody] Base64 base64File)
-            {
-            var newfileName=FileLogic.handleNewGroup(base64File, fileName, reqId, groupName);
-
-
-                return Ok(newfileName);
-            }
+        [Route("api/File/SaveFileByBase64/{fileName}/{reqId}/{groupName}")]
+        [HttpPost]
+        public IHttpActionResult SaveFileByBase64(string fileName,int reqId,string groupName, [FromBody] Base64 base64File)
+        {
+        var newfileName=FileLogic.handleNewGroup(base64File, fileName, reqId, groupName);
+            return Ok(newfileName);
+        }
 
         [Route("api/TestExport/DownloadAttachment")]
         [AcceptVerbs("GET")]

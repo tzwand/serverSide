@@ -26,7 +26,6 @@ namespace DAL
         public string learnerEmail { get; set; }
         public string gender { get; set; }
         public Nullable<int> occuptionId { get; set; }
-        public Nullable<bool> sosRequests { get; set; }
         public Nullable<System.DateTime> startDate { get; set; }
         public Nullable<System.DateTime> endDate { get; set; }
         public Nullable<int> groupId { get; set; }

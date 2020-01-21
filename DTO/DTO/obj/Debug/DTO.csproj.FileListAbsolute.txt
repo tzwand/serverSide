@@ -128,3 +128,14 @@ C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\obj\Debug\DTO.csprojAssemblyRef
 C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\obj\Debug\DTO.csproj.CopyComplete
 C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\obj\Debug\DTO.dll
 C:\Users\tzipp\BTProject\cheshvanProject\DTO\DTO\obj\Debug\DTO.pdb
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\bin\Debug\DTO.dll
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\bin\Debug\DTO.pdb
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\bin\Debug\DAL.dll
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\bin\Debug\EntityFramework.dll
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\bin\Debug\DAL.pdb
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\bin\Debug\DAL.dll.config
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\obj\Debug\DTO.dll
+C:\Users\בתיה\Desktop\Pnow\serverSide\DTO\DTO\obj\Debug\DTO.pdb

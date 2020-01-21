@@ -21,9 +21,7 @@ namespace DTO
         public DateTime? registerEndDate { get; set; }
 
         public DateTime? reqEndDate { get; set; }
-        public DateTime? sosDate { get; set; }
         public Nullable<double> payment { get; set; }
-        public Nullable<double> sosPayment { get; set; }
         public Nullable<int> occuptionId { get; set; }
         public string genderid { get; set; }
         public string password { get; set; }
@@ -44,9 +42,7 @@ namespace DTO
                           reqStartDate = b.reqStartDate,
                           reqEndDate =  b.reqEndDate,
                           registerEndDate=b.RegisterEndDate,
-                          sosDate = b.sosDate,
                           payment = b.payment,
-                          sosPayment = b.sosPayment,
                           occuptionId = b.occuptionId,
                           genderid = b.genderid,
                           password = b.password,
@@ -70,9 +66,7 @@ namespace DTO
                           reqStartDate = b.reqStartDate,
                           reqEndDate = b.reqEndDate,
                           RegisterEndDate = b.registerEndDate,
-                          sosDate = b.sosDate,
                           payment = b.payment,
-                          sosPayment = b.sosPayment,
                           occuptionId = b.occuptionId,
                           genderid = b.genderid,
                           password = b.password,
@@ -95,9 +89,7 @@ namespace DTO
                           reqStartDate = obj.reqStartDate,
                            registerEndDate = obj.RegisterEndDate,
                            reqEndDate = obj.reqEndDate,
-                          sosDate = obj.sosDate,
                           payment = obj.payment,
-                          sosPayment = obj.sosPayment,
                           occuptionId = obj.occuptionId,
                           genderid = obj.genderid,
                           password = obj.password,
@@ -121,9 +113,7 @@ namespace DTO
                           reqStartDate = obj.reqStartDate,
                           reqEndDate = obj.reqEndDate,
                           RegisterEndDate = obj.registerEndDate,
-                          sosDate = obj.sosDate,
                           payment = obj.payment,
-                          sosPayment = obj.sosPayment,
                           occuptionId = obj.occuptionId,
                           genderid = obj.genderid,
                           password = obj.password,
@@ -134,7 +124,3 @@ namespace DTO
         }
     }
 }
-
-
-    
-

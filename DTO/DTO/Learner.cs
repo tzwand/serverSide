@@ -15,7 +15,6 @@ namespace DTO
             public string learnerEmail { get; set; }
             public string gender { get; set; }
             public int? occuptionId { get; set; }
-            public bool? sosRequests { get; set; }
             public DateTime? startDate { get; set; }
             public DateTime? endDate { get; set; }
             public int? groupId { get; set; }
@@ -32,7 +31,6 @@ namespace DTO
                               learnerEmail = b.learnerEmail,
                               gender = b.gender,
                               occuptionId = b.occuptionId,
-                              sosRequests = b.sosRequests,
                               startDate =  b.startDate,
                               endDate = b.endDate,
                               groupId = b.groupId,
@@ -52,7 +50,6 @@ namespace DTO
                           learnerEmail = data.learnerEmail,
                           gender = data.gender,
                           occuptionId = data.occuptionId,
-                          sosRequests = data.sosRequests,
                           startDate = (data.startDate),
                           endDate = data.endDate,
                           groupId = data.groupId,
@@ -73,7 +70,6 @@ namespace DTO
                               learnerEmail = b.learnerEmail,
                               gender = b.gender,
                               occuptionId = b.occuptionId,
-                              sosRequests = b.sosRequests,
                               startDate = b.startDate,
                               endDate = b.endDate,
                               groupId = b.groupId,

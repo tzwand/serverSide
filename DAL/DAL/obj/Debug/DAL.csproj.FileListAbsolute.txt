@@ -83,3 +83,9 @@ C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\obj\Debug\DAL.csprojAssemblyRef
 C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\obj\Debug\DAL.dll
 C:\Users\tzipp\BTProject\cheshvanProject\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\bin\Debug\DAL.dll.config
+C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\obj\Debug\DAL.pdb
