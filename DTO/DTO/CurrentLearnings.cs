@@ -21,20 +21,14 @@ namespace DTO
         //book name
         public string title { get; set; }
         public string extraInfo { get; set; }
-
         public int? bookId { get; set; }
-
-
         public int reqId { get; set; }
         public string donorName { get; set; }
         public string reqPurpose { get; set; }
         public DateTime? registerEndDate { get; set; }
-        public DateTime? sosDate { get; set; }
         public Nullable<double> payment { get; set; }
-        public Nullable<double> sosPayment { get; set; }
         public Nullable<int> occuptionId { get; set; }
         public string genderid { get; set; }
-
         public int? timeId { get; set; }
         public string timeDesc { get; set; }
 
@@ -47,9 +41,8 @@ namespace DTO
                           //donorName = p.request_tbl.donorName,
                           //reqPurpose = p.request_tbl.reqPurpose,
                           //registerEndDate = p.request_tbl.RegisterEndDate,
-                          //sosDate = p.request_tbl.sosDate,
+                      
                           //payment = p.request_tbl.payment,
-                          //sosPayment = p.request_tbl.sosPayment,
 
                           //occuptionId = p.request_tbl.occuptionId,
                           //genderid = p.request_tbl.genderid,

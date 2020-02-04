@@ -89,3 +89,4 @@ C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\bin\Debug\DAL.pdb
 C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\obj\Debug\DAL.dll
 C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\בתיה\Desktop\Pnow\serverSide\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

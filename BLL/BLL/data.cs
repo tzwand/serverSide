@@ -62,7 +62,7 @@ namespace BLL
             //res = CurrentLearnings.cToDTO(l.Whereb(x => x.learnerId == learnerid).ToList());
             return res;
         }
-        //find the learning by category and learneb, to show differently in calender
+        //find the learning by category and learner, to show differently in calender
         //category Id is /bn/  a new paremeter in DTO which holds the ancestor id for a learning 
         //which is actually the category id
         public static List<CurrentLearnings> GetCurrentLearningByCategory(int learnerid, int bookId)
@@ -164,21 +164,23 @@ namespace BLL
         //-----------Edit----------------------------
         public static void editLearner(Learner l)
         {
-            List<learners_tbl> learners = db.learners_tbl.Where(r => r.learnerId == l.learnerId).ToList();
-            learners.ForEach(le =>
+            if (l.password != null && l.endDate > DateTime.Today)
             {
-                le.password = l.password;
-                le.learnerName = l.learnerName;
+                List<learners_tbl> learners = db.learners_tbl.Where(r => r.learnerId == l.learnerId).ToList();
+                learners.ForEach(le =>
+                {
+                    le.password = l.password;
+                    le.learnerName = l.learnerName;
 
-                le.occuptionId = l.occuptionId;
-                le.startDate = l.startDate;
-                le.endDate = l.endDate;
-                le.gender = l.gender;
-                db.Entry(le).State = System.Data.Entity.EntityState.Modified;
-            });
+                    le.occuptionId = l.occuptionId;
+                    le.startDate = l.startDate;
+                    le.endDate = l.endDate;
+                    le.gender = l.gender;
+                    db.Entry(le).State = System.Data.Entity.EntityState.Modified;
+                });
 
-            db.SaveChanges();
-
+                db.SaveChanges();
+            }
         }
         public static void editDonor(Request d)
         {
