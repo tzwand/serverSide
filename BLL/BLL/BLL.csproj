@@ -78,6 +78,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="ScheduleEmail.cs" />
     <Compile Include="search.cs" />
     <Compile Include="SingleLearner.cs" />
   </ItemGroup>
@@ -86,6 +87,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="cancelMatching.rtf" />
+    <None Include="ConfirmLearners.rtf" />
+    <None Include="ConfirmLearningLearner.rtf" />
     <None Include="mail.rtf" />
     <None Include="NewLearner.rtf" />
     <None Include="packages.config" />
@@ -96,6 +100,9 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CancelMatchingLearner.rtf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -27,6 +27,8 @@ namespace DTO
 
         public int reqId { get; set; }
         public string donorName { get; set; }
+
+        public string donorEmail { get; set; }
         public string reqPurpose { get; set; }
         public DateTime? registerEndDate { get; set; }
         public DateTime? sosDate { get; set; }
@@ -43,7 +45,8 @@ namespace DTO
             var res = from p in data
                       select new CurrentLearnings
                       {
-                          //reqId = p.request_tbl.reqId,
+                          reqId = p.request_tbl.reqId,
+                          donorEmail= p.request_tbl.donorEmail,
                           //donorName = p.request_tbl.donorName,
                           //reqPurpose = p.request_tbl.reqPurpose,
                           //registerEndDate = p.request_tbl.RegisterEndDate,

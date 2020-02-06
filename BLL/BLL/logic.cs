@@ -102,15 +102,15 @@ namespace BLL
         {
             //create a new email instance
             Email e = new Email();
-           
-            
+
+
             ////change the password in db according to the recovered one found
             ////find the right object and modify it
             ////used syntex to modify only the password prop
             //if(type=="learner")
 
             //{
-                
+
             //    var l = data.db.learners_tbl.ToList();
             //    var learner = l.FirstOrDefault(le => le.learnerEmail == email);
             //    learner.learnerEmail = email;
@@ -124,10 +124,11 @@ namespace BLL
             //    data.db.request_tbl.Attach(re);
             //    data.db.Entry(re).Property(x => x.donorEmail).IsModified = true;
             //}
-            
+
             //data.db.SaveChanges();
             //Email the new password
-            e.sendEmailResetPassword(email,password);
+            e.sendEmailViaWebApi("", email, "איפוס סיסמא", "C:\\Users\\tzipp\\BTProject\\cheshvanProject\\BLL\\BLL\\ResetPassword.rtf", "");
+
 
 
         }

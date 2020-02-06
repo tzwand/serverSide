@@ -114,7 +114,7 @@ namespace BLL
                     // Choose one of either 1 or 2:
                     //// 1. Use the reader methods
                     //do
-                    //{
+                    //{/
                     //    while (reader.Read())
                     //    {
                     //        // reader.GetDouble(0);
@@ -156,7 +156,7 @@ namespace BLL
                         var userName = req.donorName;
                         Email e = new Email(l.learnerName,l.learnerEmail);
                         string bodyPath = "C:\\Users\\tzipp\\BTProject\\cheshvanProject\\BLL\\BLL\\NewLearner.rtf";
-
+                       
                         e.sendEmailViaWebApi(l.learnerName, l.learnerEmail, "הצטרפות לאוצר הלימוד", bodyPath,userName);
 
                         //add the learner to the closed group section in learner tbl
@@ -166,6 +166,7 @@ namespace BLL
                         //we need to generate a password as well
                         int pass = logic.getRandomPassword();
                         l.password = pass.ToString();
+                        
                         e.sendEmailViaWebApi(pass.ToString());
 
                         //need to email him his password

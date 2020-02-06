@@ -23,10 +23,10 @@ namespace WEB_API.Controllers
             matching = data.getAllMatchings().FirstOrDefault(match => match.learnerId == m.learnerId &&
               match.reqId == m.reqId && match.bookId == m.bookId);
 
-            if (matching != null)
-                BLL.data.deleteMatch(m);
-            else
-                return;
+            //if (matching != null)
+                //BLL.data.deleteMatch(m);
+            //else
+                //return;
         }
         [Route("GetAllMatchings")]
         //  GET: api/forRequest
@@ -43,7 +43,8 @@ namespace WEB_API.Controllers
         {
             Matching m= data.getMatchByDonorLearnerAndBook(donorId+".com",learnerId,bookId);
             //delete the matching
-            data.deleteMatch(m);
+            data.deleteMatch(m,donorId);
+           
             return m;
 
         }
